@@ -1,5 +1,5 @@
 # Leetcode-Solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
+My collection of LeetCode solutions, I hope you will find something useful!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
