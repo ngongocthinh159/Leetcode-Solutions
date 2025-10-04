@@ -1,22 +1,23 @@
 class Solution {
 public:
-    unordered_map<int,unordered_map<int,int>> dp;
+    vector<vector<int>> dp;
     vector<int> c;
     int dfs(int st, int end) {
-        if (dp[st].count(end)) return dp[st][end];
+        if (end - st - 1 <= 0) return 0;
+        if (dp[st][end] != -1) return dp[st][end];
         int res = INT_MAX;
-        auto it1 = lower_bound(c.begin(), c.end(), st);
-        auto it2 = upper_bound(c.begin(), c.end(), end);
-        while (it1 != it2) {
-            if (*it1 != st && *it1 != end)
-                res = min(res, end - st + dfs(st, *it1) + dfs(*it1, end));
-            ++it1;
+        for (int i = st + 1; i < end; i++) {
+            res = min(res, c[end] - c[st] + dfs(st, i) + dfs(i, end));
         }
-        return dp[st][end] = res == INT_MAX ? 0 : res;
+        return dp[st][end] = res;
     } 
     int minCost(int n, vector<int>& cuts) {
-        c = cuts;
+        c.push_back(0);
+        c.push_back(n);
+        for (auto x : cuts) c.push_back(x);
         sort(c.begin(), c.end());
-        return dfs(0, n);
+        n = c.size();
+        dp.assign(n, vector<int>(n, -1));
+        return dfs(0, n - 1);
     }
 };
