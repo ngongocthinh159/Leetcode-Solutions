@@ -18,6 +18,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,16 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## String
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
