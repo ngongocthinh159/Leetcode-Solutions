@@ -47,10 +47,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## String
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bit Manipulation
@@ -94,4 +97,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
