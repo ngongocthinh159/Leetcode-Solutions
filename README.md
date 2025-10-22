@@ -27,6 +27,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## String
 |  |
