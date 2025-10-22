@@ -28,18 +28,14 @@ public:
                     queryMx(p1.first, p1.second) - queryMn(p1.first, p1.second);
         };
         priority_queue<pair<int,int>, vector<pair<int,int>>, decltype(cmp)> q(cmp);
-        unordered_set<long long> S;
-        q.push({0, n - 1});
-        long long base = n + 5;
-        S.insert(1 + (n - 1 + 1) * base);
+        for (int i = 0; i < n; i++) q.push({i, n - 1});
         long long ans = 0;
         while (k--) {
             auto p = q.top(); q.pop();
             int l = p.first;
             int r = p.second;
             ans += queryMx(l, r) - queryMn(l, r);
-            if (l + 1 <= r && !S.count(l + 2 + (r + 1) * base)) q.push({l + 1, r}), S.insert(l + 2 + (r + 1) * base);
-            if (l <= r - 1 && !S.count(l + 1 + r * base)) q.push({l, r - 1}), S.insert(l + 1 + r * base);
+            if (l <= r - 1) q.push({l, r - 1});
         }
         return ans;
     }
