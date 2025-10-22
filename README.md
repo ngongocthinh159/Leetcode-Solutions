@@ -17,6 +17,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 ## Matrix
 |  |
 | ------- |
@@ -65,6 +67,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 ## Binary Search
 |  |
 | ------- |
