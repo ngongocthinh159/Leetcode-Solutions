@@ -7,6 +7,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -24,6 +25,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Dynamic Programming
 |  |
 | ------- |
+| [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -73,12 +75,14 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Hash Table
 |  |
 | ------- |
+| [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Binary Search
 |  |
 | ------- |
+| [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
