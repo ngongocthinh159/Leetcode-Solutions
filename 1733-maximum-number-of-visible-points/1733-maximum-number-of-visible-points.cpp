@@ -1,5 +1,10 @@
 class Solution {
 public:
+    double getAngleFromOx(const pair<int,int> &p) {
+        double res = atan2(p.second, p.first) * (180.0 / M_PI);
+        if (res < 0) res += 360;
+        return res;
+    }
     int visiblePoints(vector<vector<int>>& points, int angle, vector<int>& location) {
         int x = location[0], y = location[1];
         vector<double> A;
@@ -11,10 +16,9 @@ public:
                 same++;
                 continue;
             }
-            double ang = atan2(Y, X) * (180.0 / M_PI);
-            if (ang < 0) ang += 360;
-            A.push_back(ang);
+            A.push_back(getAngleFromOx({X, Y}));
         }
+
         sort(A.begin(), A.end());
         vector<double> a = A;
         a.insert(a.end(), A.begin(), A.end());
