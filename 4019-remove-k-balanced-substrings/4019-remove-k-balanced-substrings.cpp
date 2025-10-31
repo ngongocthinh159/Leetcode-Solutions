@@ -11,7 +11,7 @@ public:
             } else
                 st.push_back({c, 1});
             
-            while (st.size() >= 2 && st.back().first == ')' && st.back().second == k && st[st.size() - 2].first == '(' && st[st.size() - 2].second >= k) {
+            if (st.size() >= 2 && st.back().first == ')' && st.back().second == k && st[st.size() - 2].first == '(' && st[st.size() - 2].second >= k) {
                 st.pop_back();
                 st.back().second -= k;
                 if (st.back().second == 0) st.pop_back();
