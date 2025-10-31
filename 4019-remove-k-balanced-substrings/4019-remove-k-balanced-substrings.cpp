@@ -26,12 +26,8 @@ public:
                 st.push_back({c, cnt});
             reduce(st, k);
         }
-        while (st.size()) {
-            for (int i = 0; i < st.back().second; i++) res += st.back().first;
-            st.pop_back();
-        }
-        reverse(res.begin(), res.end());
+        for (int i = 0; i < st.size(); i++)
+            for (int j = 0; j < st[i].second; j++) res += st[i].first;
         return res;
-        
     }
 };
