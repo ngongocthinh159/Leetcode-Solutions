@@ -39,6 +39,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
+| [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 ## Simulation
 |  |
 | ------- |
