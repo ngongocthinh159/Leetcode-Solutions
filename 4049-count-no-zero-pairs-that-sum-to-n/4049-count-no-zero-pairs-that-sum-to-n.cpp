@@ -4,7 +4,8 @@ vector<int> list1 = {0};
 vector<int> list2 = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 class Solution {
 public:
-    long long cnt(string &s) {
+    long long countNoZeroPairs(long long x) {
+        string s = to_string(x);
         reverse(s.begin(), s.end());
         int n = s.size();
         for (int i = 0; i <= n; i++)
@@ -47,9 +48,5 @@ public:
                         }
                     }
         return dp[n][1][1][0];
-    }
-    long long countNoZeroPairs(long long x) {
-        string s = to_string(x);
-        return cnt(s);
     }
 };
