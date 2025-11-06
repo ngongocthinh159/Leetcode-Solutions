@@ -25,6 +25,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
@@ -82,11 +83,13 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 ## Matrix
 |  |
@@ -103,6 +106,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Binary Search
@@ -126,6 +130,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
@@ -179,6 +184,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Union Find
 |  |
 | ------- |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Number Theory
 |  |
@@ -208,4 +214,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
