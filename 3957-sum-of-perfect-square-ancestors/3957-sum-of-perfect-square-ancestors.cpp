@@ -1,11 +1,6 @@
 #define N 100005
 int spf[N], buf[N], top = 0;
-auto init = [] {
-    for (int i = 0; i < N; i++) spf[i] = i;
-    for (int i = 2; i * i < N; i++) if (spf[i] == i)
-        for (int j = i * i; j < N; j += i) spf[j] = min(spf[j], i);
-    return 0;
-}();
+string toKey[N];
 string factorize(int x) {
     string cur = "";
     while (x != 1) {
@@ -16,15 +11,22 @@ string factorize(int x) {
     }
     return cur;
 }
+auto init = [] {
+    for (int i = 0; i < N; i++) spf[i] = i;
+    for (int i = 2; i * i < N; i++) if (spf[i] == i)
+        for (int j = i * i; j < N; j += i) spf[j] = min(spf[j], i);
+    for (int i = 1; i < N; i++) toKey[i] = factorize(i);
+    return 0;
+}();
 class Solution {
 public:
     vector<vector<int>> g;
-    vector<int> ans;
+    long long res = 0;
     unordered_map<string,int> f;
     void dfs(int u, int p, vector<int> &nums) {
-        string k = factorize(nums[u]);
+        string k = toKey[nums[u]];
         int &cnt = f[k];
-        ans[u] = cnt;
+        res += cnt;
         cnt++;
         for (auto v : g[u]) if (v != p)
             dfs(v, u, nums);
@@ -32,14 +34,11 @@ public:
     }
     long long sumOfAncestors(int n, vector<vector<int>>& edges, vector<int>& nums) {
         g.resize(n);
-        ans.resize(n);
         for (auto  &e : edges) {
             g[e[0]].push_back(e[1]);
             g[e[1]].push_back(e[0]);
         }
         dfs(0, -1, nums);
-        long long res = 0;
-        for (auto x : ans) res += x;
         return res;
     }
 };
