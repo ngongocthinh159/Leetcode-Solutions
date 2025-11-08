@@ -9,8 +9,7 @@ public:
         for (int i = 0; i < n; i++) if (color[i] == -1) {
             deque<int> q;
             q.push_front(i);
-            int cc = 0;
-            color[i] = cc;
+            color[i] = 0;
             while (q.size()) {
                 for (int sz = q.size(); sz; sz--) {
                     int u = q.back(); q.pop_back();
@@ -18,12 +17,11 @@ public:
                         if (color[v] != -1) {
                             if (color[v] == color[u]) return false;
                         } else {
-                            color[v] = !cc;
+                            color[v] = !color[u];
                             q.push_front(v);
                         }
                     }
                 }
-                cc ^= 1;
             }
         }
         return true;
