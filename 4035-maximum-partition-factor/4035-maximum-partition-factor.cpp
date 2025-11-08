@@ -1,28 +1,23 @@
 class Solution {
 public:
+    vector<int> color;
     int dist(vector<int> &p1, vector<int> &p2) {
         return abs(p1[0] - p2[0]) + abs(p1[1] - p2[1]);
     }
+    bool dfs(int u, int c, vector<vector<int>> &g) {
+        color[u] = c;
+        for (auto v : g[u]) {
+            if (color[v] == -1) {
+                if (!dfs(v, !c, g)) return false;
+            } else if (color[v] == color[u]) return false;
+        }
+        return true;
+    }
     bool is_bipartile(vector<vector<int>> &g) {
         int n = g.size();
-        vector<int> color(n, -1);
+        color.assign(n, -1);
         for (int i = 0; i < n; i++) if (color[i] == -1) {
-            deque<int> q;
-            q.push_front(i);
-            color[i] = 0;
-            while (q.size()) {
-                for (int sz = q.size(); sz; sz--) {
-                    int u = q.back(); q.pop_back();
-                    for (auto v : g[u]) {
-                        if (color[v] != -1) {
-                            if (color[v] == color[u]) return false;
-                        } else {
-                            color[v] = !color[u];
-                            q.push_front(v);
-                        }
-                    }
-                }
-            }
+            if (!dfs(i, 0, g)) return false;
         }
         return true;
     }
