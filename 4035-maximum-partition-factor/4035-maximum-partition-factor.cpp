@@ -41,7 +41,7 @@ public:
     int maxPartitionFactor(vector<vector<int>>& points) {
         int n = points.size();
         if (n == 2) return 0;
-        int l = -1, r = 1e9;
+        int l = -1, r = 5e8 + 105;
         while (r - l > 1) {
             int m = l + (r - l)/2;
             if (check(m, points))
