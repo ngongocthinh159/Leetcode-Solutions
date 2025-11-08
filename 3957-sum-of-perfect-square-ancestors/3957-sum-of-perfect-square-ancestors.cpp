@@ -1,13 +1,13 @@
 #define N 100005
-int spf[N], buf[N], top = 0;
-string toKey[N];
-string factorize(int x) {
-    string cur = "";
+int spf[N], buf[N];
+long long toKey[N];
+long long factorize(int x) {
+    long long cur = 1;
     while (x != 1) {
         int fact = spf[x], cnt = 0;
         while (x % fact == 0) x /= fact, cnt++;
         if (cnt&1)
-            cur += to_string(fact) + ",";
+            cur *= fact;
     }
     return cur;
 }
@@ -22,9 +22,9 @@ class Solution {
 public:
     vector<vector<int>> g;
     long long res = 0;
-    unordered_map<string,int> f;
+    unordered_map<long long,int> f;
     void dfs(int u, int p, vector<int> &nums) {
-        string k = toKey[nums[u]];
+        long long k = toKey[nums[u]];
         int &cnt = f[k];
         res += cnt;
         cnt++;
