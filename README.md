@@ -33,6 +33,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
+| [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
+| [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 ## Binary Search
 |  |
@@ -162,6 +164,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
+| [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 ## String
 |  |
@@ -203,6 +206,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -257,4 +261,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
