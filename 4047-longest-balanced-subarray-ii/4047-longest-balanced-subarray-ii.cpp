@@ -46,7 +46,7 @@ struct segtree {
         if (s == e) return s;
         push_down(idx, s, e);
         int m = (s + e)/2;
-        int lans = lans = left_most_zero(2*idx, s, m);
+        int lans = left_most_zero(2*idx, s, m);
         if (lans != -1) return lans;
         return left_most_zero(2*idx +1, m + 1, e);
     }
@@ -56,10 +56,10 @@ public:
     int longestBalanced(vector<int>& nums) {
         int n = nums.size(), ans = 0;
         unordered_map<int,int> last;
-        vector<int> S = {1, -1};
+        vector<int> toSign = {1, -1};
         segtree tree(n);
         for (int i = 0; i < n; i++) {
-            int sign = S[nums[i] & 1];
+            int sign = toSign[nums[i] & 1];
             if (last.count(nums[i]))
                 tree.update(1, 0, n - 1, 0, last[nums[i]], -sign);
             last[nums[i]] = i;
