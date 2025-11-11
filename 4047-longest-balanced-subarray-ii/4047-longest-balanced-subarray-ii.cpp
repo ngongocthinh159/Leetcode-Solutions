@@ -41,15 +41,14 @@ struct segtree {
         update(2*idx + 1, m + 1, e, l, r, val);
         node[idx] = merge(node[2*idx], node[2*idx + 1]);
     }
-    int traverse(int idx, int s, int e, int l, int r) {
-        if (s > r || l > e || s > e || l > r) return -1;
+    int left_most_zero(int idx, int s, int e) {
         if (!(node[idx].mn <= 0 && 0 <= node[idx].mx)) return -1;
         if (s == e) return s;
         push_down(idx, s, e);
         int m = (s + e)/2;
-        int lans = lans = traverse(2*idx, s, m, l, r);
+        int lans = lans = left_most_zero(2*idx, s, m);
         if (lans != -1) return lans;
-        return traverse(2*idx +1, m + 1, e, l, r);
+        return left_most_zero(2*idx +1, m + 1, e);
     }
 };
 class Solution {
@@ -65,8 +64,8 @@ public:
                 tree.update(1, 0, n - 1, 0, last[nums[i]], -sign);
             last[nums[i]] = i;
             tree.update(1, 0, n - 1, 0, last[nums[i]], sign);
-            int idx = tree.traverse(1, 0, n - 1, 0, i);
-            if (idx != -1)
+            int idx = tree.left_most_zero(1, 0, n - 1);
+            if (idx != -1 && idx <= i)
                 ans = max(ans, i - idx + 1);
         }
         return ans;
