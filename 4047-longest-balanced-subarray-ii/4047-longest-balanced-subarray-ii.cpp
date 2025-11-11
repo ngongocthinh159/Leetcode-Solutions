@@ -47,9 +47,7 @@ struct segtree {
         if (s == e) return s;
         push_down(idx, s, e);
         int m = (s + e)/2;
-        int lans = -1;
-        if (node[2*idx].mn <= 0 && 0 <= node[2*idx].mx)
-            lans = traverse(2*idx, s, m, l, r);
+        int lans = lans = traverse(2*idx, s, m, l, r);
         if (lans != -1) return lans;
         return traverse(2*idx +1, m + 1, e, l, r);
     }
