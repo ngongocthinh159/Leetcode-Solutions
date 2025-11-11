@@ -9,13 +9,10 @@ public:
                 if (c == '0') Z++;
                 else O++;
             }
-            for (int z = m; z >= 0; z--)
-                for (int o = n; o >= 0; o--) if (z >= Z && o >= O)
+            for (int z = m; z >= Z; z--)
+                for (int o = n; o >= O; o--)
                     dp[z][o] = max(dp[z][o], 1 + dp[z - Z][o - O]);
         }
-        int ans = 0;
-        for (int z = 0; z <= m; z++)
-            for (int o = 0; o <= n; o++) ans = max(ans, dp[z][o]);
-        return ans;
+        return dp[m][n];
     }
 };
