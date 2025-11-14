@@ -36,6 +36,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
+| [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
@@ -151,6 +152,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
