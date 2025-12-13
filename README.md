@@ -32,6 +32,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
@@ -107,6 +108,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
+| [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Depth-First Search
 |  |
@@ -141,6 +143,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
