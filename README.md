@@ -17,6 +17,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
@@ -60,6 +61,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -70,6 +72,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [2037-count-square-sum-triples](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -100,6 +103,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Combinatorics
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
@@ -267,6 +271,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Union Find
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
@@ -323,10 +328,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Tree
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Monotonic Stack
 |  |
@@ -348,4 +355,16 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
