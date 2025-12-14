@@ -36,7 +36,6 @@ class Solution {
 public:
     int n;
     node* insert(node *root, int x) {
-        // cout << x << '\n';
         if (!root)
             return new node(x);
         if (x > root->val) 
@@ -46,7 +45,8 @@ public:
         return root;
     }
     pair<int,int> dfs(node *root) {
-        if (!root) return {0, 1};
+        if (!root) 
+            return {0, 1};
         auto lp = dfs(root->left);
         auto rp = dfs(root->right);
         ll ways = 1LL * nCk(lp.first + rp.first, lp.first) * lp.second % MOD * rp.second % MOD;
