@@ -24,6 +24,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -66,6 +67,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
@@ -81,6 +83,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [2037-count-square-sum-triples](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
