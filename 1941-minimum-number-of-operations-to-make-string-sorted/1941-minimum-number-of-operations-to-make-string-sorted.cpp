@@ -22,22 +22,21 @@ class Solution {
 public:
     int makeStringSorted(string s) {
         int n = s.size();
-        ll cur = 0;
+        ll ans = 0;
         int f[26]{};
         for (auto c : s) f[c - 'a']++;
         for (int i = 0; i < n; i++) {
+            int tot = 0;
+            ll cur = 1, sum = 1;
+            for (int c = 0; c < 26; c++) if (f[c]) tot += f[c], cur = cur * inv[f[c]] % MOD;
+            cur = cur * fact[tot - 1] % MOD;
             for (int c = 0; c < s[i] - 'a'; c++) if (f[c]) {
-                f[c]--;
-                int tot = 0;
-                ll t = 1;
-                for (int j = 0; j < 26; j++) tot += f[j], t = t * inv[f[j]] % MOD;
-                t = t * fact[tot] % MOD;
-                cur += t;
-                if (cur >= MOD) cur -= MOD;
-                f[c]++;
+                sum = cur * fact[f[c]] % MOD * inv[f[c] - 1] % MOD;
+                ans += sum;
+                if (ans >= MOD) ans -= MOD;
             }
             f[s[i] - 'a']--;
         }
-        return cur;
+        return ans;
     }
 };
