@@ -14,22 +14,14 @@ public:
             dfs(v);
             vector<int> ndp = cdp;
             vector<int> ndp2 = cdp2;
-            vector<int> ndp3 = cdp3;
             for (int tot = 0; tot <= B; tot++) {
                 for (int j = 0; j <= tot; j++)
                     ndp[tot] = max(ndp[tot], dp[v][j][0] + cdp[tot - j]);
-                if (tot <= B - ps[u - 1]) {
-                    for (int j = 0; j <= tot; j++)
-                        ndp2[tot] = max(ndp2[tot], dp[v][j][1] + cdp2[tot - j]);
-                }
-                if (tot <= B - ps[u - 1]/2) {
-                    for (int j = 0; j <= tot; j++)
-                        ndp3[tot] = max(ndp3[tot], dp[v][j][1] + cdp3[tot - j]);
-                }
+                for (int j = 0; j <= tot; j++)
+                    ndp2[tot] = max(ndp2[tot], dp[v][j][1] + cdp2[tot - j]);
             }
             swap(cdp, ndp);
             swap(cdp2, ndp2);
-            swap(cdp3, ndp3);
         }
         for (int tot = 0; tot <= B; tot++) {
             dp[u][tot][0] = cdp[tot];
@@ -37,7 +29,7 @@ public:
                 dp[u][tot][0] = max(dp[u][tot][0], cdp2[tot - ps[u - 1]] + ft[u - 1] - ps[u - 1]);
             dp[u][tot][1] = cdp[tot];
             if (tot >= ps[u - 1]/2)
-                dp[u][tot][1] = max(dp[u][tot][1], cdp3[tot - ps[u - 1]/2] + ft[u - 1] - ps[u - 1]/2);
+                dp[u][tot][1] = max(dp[u][tot][1], cdp2[tot - ps[u - 1]/2] + ft[u - 1] - ps[u - 1]/2);
         }
     }
     int maxProfit(int N, vector<int>& present, vector<int>& future, vector<vector<int>>& hierarchy, int budget) {
