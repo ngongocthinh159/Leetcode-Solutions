@@ -9,11 +9,10 @@ public:
     void dfs(int u) {
         vector<int> cdp(B + 1);
         vector<int> cdp2(B + 1);
-        vector<int> cdp3(B + 1);
         for (auto v : g[u]) {
             dfs(v);
-            vector<int> ndp = cdp;
-            vector<int> ndp2 = cdp2;
+            vector<int> ndp(B + 1);
+            vector<int> ndp2(B + 1);
             for (int tot = 0; tot <= B; tot++) {
                 for (int j = 0; j <= tot; j++)
                     ndp[tot] = max(ndp[tot], dp[v][j][0] + cdp[tot - j]);
