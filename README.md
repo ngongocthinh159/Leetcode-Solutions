@@ -61,6 +61,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0956-number-of-music-playlists) |
@@ -147,6 +148,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2213-find-all-people-with-secret](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2213-find-all-people-with-secret) |
@@ -361,6 +363,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
@@ -400,6 +403,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Probability and Statistics
 |  |
