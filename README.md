@@ -10,6 +10,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0981-delete-columns-to-make-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -237,6 +238,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0981-delete-columns-to-make-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
