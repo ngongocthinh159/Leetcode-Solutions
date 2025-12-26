@@ -1,27 +1,24 @@
-#define iii tuple<int,int,int>
-auto cmp = [](iii& p1, iii& p2) {
-    return p2 > p1;
-};
 class FreqStack {
 public:
-    int time = 0;
-    priority_queue<iii,vector<iii>,decltype(cmp)> q;
-    unordered_map<int,int> f;
+    unordered_map<int,vector<int>> fToList;
+    unordered_map<int,int> valToF;
+    int mxf = 0;
     FreqStack() {
-        q = priority_queue<iii,vector<iii>,decltype(cmp)>(cmp);
     }
     
     void push(int val) {
-        int freq = ++f[val];
-        q.push({freq, time, val});
-        time++;
+        int f = ++valToF[val];
+        if (mxf < f) mxf++;
+        fToList[f].push_back(val);
     }
     
     int pop() {
-        auto p = q.top();
-        q.pop();
-        f[get<2>(p)]--;
-        return get<2>(p);
+        auto &l = fToList[mxf];
+        int res = l.back();
+        l.pop_back();
+        valToF[res]--;
+        if (l.empty()) mxf--;
+        return res;
     }
 };
 
