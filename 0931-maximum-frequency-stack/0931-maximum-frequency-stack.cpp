@@ -1,8 +1,6 @@
 #define iii pair<int,pair<int,int>>
 auto cmp = [](iii& p1, iii& p2) {
-    if (p2.first > p1.first) return true;
-    if (p2.first == p1.first && p2.second.first > p1.second.first) return true;
-    return false;
+    return p2 > p1;
 };
 class FreqStack {
 public:
