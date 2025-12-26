@@ -1,4 +1,4 @@
-#define iii pair<int,pair<int,int>>
+#define iii tuple<int,int,int>
 auto cmp = [](iii& p1, iii& p2) {
     return p2 > p1;
 };
@@ -13,15 +13,15 @@ public:
     
     void push(int val) {
         int freq = ++f[val];
-        q.push({freq, {time, val}});
+        q.push({freq, time, val});
         time++;
     }
     
     int pop() {
         auto p = q.top();
         q.pop();
-        f[p.second.second]--;
-        return p.second.second;
+        f[get<2>(p)]--;
+        return get<2>(p);
     }
 };
 
