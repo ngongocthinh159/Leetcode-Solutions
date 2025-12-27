@@ -23,10 +23,13 @@ public:
     string shortestSuperstring(vector<string>& words) {
         int n = words.size();
         const int IINF = 1e9;
+        vector<vector<int>> overlap(n, vector<int>(n));
         vector<vector<pair<int,int>>> g(n);
         for (int i = 0; i < n; i++)
-            for(int j = 0; j < n; j++) if (i != j)
-                g[i].push_back({j, cal_w(words[i], words[j])});
+            for(int j = 0; j < n; j++) if (i != j) {
+                overlap[i][j] = cal_w(words[i], words[j]);
+                g[i].push_back({j, overlap[i][j]});
+            }
         vector<vector<int>> dp(1 << n, vector<int>(n, -IINF));
         vector<vector<pair<int,int>>> trace(1 << n, vector<pair<int,int>>(n));
         for (int i = 0; i < n; i++) dp[1 << i][i] = 0;
@@ -55,7 +58,7 @@ public:
             if (i == 0) 
                 res += words[v[i]];
             else {
-                int len = cal_w(words[v[i - 1]], words[v[i]]);
+                int len = overlap[v[i - 1]][v[i]];
                 res += words[v[i]].substr(len);
             }
         }
