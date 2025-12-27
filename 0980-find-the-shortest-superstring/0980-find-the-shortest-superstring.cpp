@@ -1,17 +1,17 @@
 class Solution {
 public:
-    vector<int> kmp_f(string &s) {
+    vector<int> kmp(string &s) {
         int n = s.size();
-        vector<int> kmp(n);
+        vector<int> pref(n);
         for (int i = 1, j = 0; i < n; i++) {
-            while (j > 0 && s[i] != s[j]) j = kmp[j - 1];
-            kmp[i] = s[i] == s[j] ? ++j : 0;
+            while (j > 0 && s[i] != s[j]) j = pref[j - 1];
+            pref[i] = s[i] == s[j] ? ++j : 0;
         }
-        return kmp;
+        return pref;
     }
     int cal_w(string &s, string &t) {
         string u = t + "#" + s;
-        return kmp_f(u)[u.size() - 1];
+        return kmp(u)[u.size() - 1];
     }
     bool maximize(int &x, int y) {
         if (x < y) {
@@ -40,7 +40,6 @@ public:
         int fmask = (1 << n) - 1;
         for (int i = 0; i < n; i++) if (maximize(mx, dp[fmask][i]))
             u = i;
-        // cout << mx << "\n";
         int e = n - 1;
         int cmask = fmask;
         vector<int> v;

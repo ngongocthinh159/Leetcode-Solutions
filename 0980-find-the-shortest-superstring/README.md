@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-shortest-superstring">980. Find the Shortest Superstring</a></h2><h3>Hard</h3><hr><p>Given an array of strings <code>words</code>, return <em>the smallest string that contains each string in</em> <code>words</code> <em>as a substring</em>. If there are multiple valid strings of the smallest length, return <strong>any of them</strong>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-shortest-superstring/description/">980. Find the Shortest Superstring</a></h2><h3>Hard</h3><hr><p>Given an array of strings <code>words</code>, return <em>the smallest string that contains each string in</em> <code>words</code> <em>as a substring</em>. If there are multiple valid strings of the smallest length, return <strong>any of them</strong>.</p>
 
 <p>You may assume that no string in <code>words</code> is a substring of another string in <code>words</code>.</p>
 
