@@ -82,6 +82,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
@@ -165,6 +166,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1300-critical-connections-in-a-network](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2213-find-all-people-with-secret](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
@@ -329,6 +331,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2213-find-all-people-with-secret](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
@@ -399,6 +402,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
