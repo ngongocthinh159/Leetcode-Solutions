@@ -22,17 +22,10 @@ public:
                 }
             }   
         for (int i = 0; i < n; i++) dp[1 << i][i] = 1;
-        for (int d = 1; d < n; d++) {
-            vector<vector<int>> ndp(1<< n, vector<int>(n));
-            for (int mask = 0; mask < (1 << n); mask++)
-                for (int u = 0; u < n; u++) if (dp[mask][u]) {
-                    for (auto v : g[u]) if (!((mask >> v) & 1)) {
-                        ndp[mask | (1 << v)][v] += dp[mask][u];
-                    }
-                }       
-            swap(dp, ndp);
-        }
-
+        for (int mask = 0; mask < (1 << n); mask++)
+            for (int u = 0; u < n; u++) if (dp[mask][u])
+                for (auto v : g[u]) if (!((mask >> v) & 1))
+                    dp[mask | (1 << v)][v] += dp[mask][u];
         int ans = 0;
         int fmask = (1 << n) - 1;
         for (int i = 0; i < n; i++) ans += dp[fmask][i];
