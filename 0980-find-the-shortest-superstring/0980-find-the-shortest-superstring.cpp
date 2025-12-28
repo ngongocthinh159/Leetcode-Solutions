@@ -1,3 +1,17 @@
+/*
+    We need to proof that: If we concatinate two strings, we always try to use the max matching of 1st surfix and 2nd prefix
+    
+    + So if we look at the optimal solution, it will look like:
+        s1        e1
+            s2      e2
+                s3      e3
+                    s4      e4
+
+        That is the s(i + 1) > si && e(i + 1) > ei. It look like this because no word is substring of another word (in the final string, there is no same starting point or no same ending point). 
+        
+        Imagine if we not choose max matching of e1 and s2 (assume that there is multiple matching position of e1 and s2), which mean we still can shift all s2, s3, s4 to the left to reduce the total length, because we can shift s2, and s3 only depend on s2, then we can shift s3 and so on..
+*/
+
 class Solution {
 public:
     vector<int> kmp(string &s) {
