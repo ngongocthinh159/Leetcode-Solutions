@@ -34,20 +34,16 @@ public:
                         int cost = abs(u - nums[v]);
                         int nmask = mask | (1 << v);
                         if (nmask == fmask) cost += abs(v - nums[s]);
-                        pair<int,ll> np;
-                        // int p = n - __builtin_popcount(mask);
-                        np.first = dp[mask][s][u].first + cost;
-                        np.second = base * dp[mask][s][u].second + (v + 1);
+                        auto np = dp[mask][s][u];
+                        np.first += cost;
+                        np.second = np.second * base + (v + 1);
                         if (minimize(dp[nmask][s][v], np))
                             trace[nmask][s][v] = u;
                     }
         auto ans = SEN;
         int cmask = fmask, S = -1, E = -1;
         for (int s = 0; s < n; s++)
-            for (int e = 0; e < n; e++) if (minimize(ans, dp[fmask][s][e])) {
-                S = s;
-                E = e;
-            }
+            for (int e = 0; e < n; e++) if (minimize(ans, dp[fmask][s][e])) S = s, E = e;
         vector<int> res;
         res.push_back(E);
         while (trace[cmask][S][E] != -1) {
