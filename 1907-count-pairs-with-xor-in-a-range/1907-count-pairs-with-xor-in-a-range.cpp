@@ -37,6 +37,7 @@ public:
                 if (p->child[idx0]) p = p->child[idx0];
                 else break;
             }
+            if (bit == 0) ans += p->cnt;
         }
         return ans;
     }
@@ -46,12 +47,11 @@ public:
         ll ans = 0;
         for (int i = 0; i < n; i++) {
             ans += get_ans(root, nums[i], high); 
-            // cout << i << ' ' << get_ans(root, nums[i], high) << ' ' << high << '\n';
             insert(root, nums[i]);
         }
         return ans;
     }
     int countPairs(vector<int>& nums, int low, int high) {
-        return cal(nums, high + 1) - cal(nums, low);
+        return cal(nums, high) - cal(nums, low - 1);
     }
 };
