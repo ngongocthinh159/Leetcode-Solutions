@@ -179,6 +179,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1300-critical-connections-in-a-network](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
@@ -194,6 +195,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
+| [1558-course-schedule-iv](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2213-find-all-people-with-secret](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2213-find-all-people-with-secret) |
@@ -419,6 +421,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [1300-critical-connections-in-a-network](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
+| [1558-course-schedule-iv](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
 | [2213-find-all-people-with-secret](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
@@ -501,4 +504,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1907-count-pairs-with-xor-in-a-range) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
