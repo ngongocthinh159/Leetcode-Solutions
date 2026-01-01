@@ -23,16 +23,12 @@ public:
         // a * (x1 - x2) + b * (y1 - y2) = 0
         // a * (x1 - x2) = b * (y2 - y1)
         int n = points.size();
-        unordered_map<ll,unordered_map<ll,unordered_map<ll,int>>> f;
-        int ans = 0;
+        int ans = 1;
         for (int i = 0; i < n; i++) {
-            set<array<ll, 3>> S;
+            unordered_map<ll,unordered_map<ll,unordered_map<ll,int>>> f;
             for (int j = 0; j < n; j++) if (i != j) {
                 auto [a, b, c] = find(points[i], points[j]);
-                if (!S.count({a, b ,c})) {
-                    S.insert({a, b, c});
-                    ans = max(ans, ++f[a][b][c]);
-                }
+                ans = max(ans, ++f[a][b][c] + 1);
             }
         }
         return ans;
