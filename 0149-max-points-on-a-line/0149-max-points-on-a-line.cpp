@@ -1,21 +1,18 @@
 #define ll long long
 class Solution {
 public:
-    array<ll, 3> find(vector<int>&p1, vector<int>&p2) {
+    array<ll, 2> find(vector<int>&p1, vector<int>&p2) {
         int x1 = p1[0], y1 = p1[1], x2 = p2[0], y2 = p2[1];
-        ll a, b, c;
+        ll a, b;
         if (x1 == x2) {
-            a = 1, b = 0;
-        } else if (y1 == y2) {
-            a = 0, b = 1;
+            return {LLONG_MAX, LLONG_MAX};
         } else {
             a = y2 - y1, b = x1 - x2;
             if (a < 0) a *= -1, b *= -1;
             ll g = gcd(abs(a), abs(b));
             a /= g; b /= g;
+            return {a, b};
         }
-        c = - 1ll * a * x1 - 1ll * b * y1;
-        return {a, b, c};
     }
     int maxPoints(vector<vector<int>>& points) {
         // a * x1 + b * y1 + c = 0
@@ -25,10 +22,10 @@ public:
         int n = points.size();
         int ans = 1;
         for (int i = 0; i < n; i++) {
-            unordered_map<ll,unordered_map<ll,unordered_map<ll,int>>> f;
+            unordered_map<ll,unordered_map<ll,int>> f;
             for (int j = 0; j < n; j++) if (i != j) {
-                auto [a, b, c] = find(points[i], points[j]);
-                ans = max(ans, ++f[a][b][c] + 1);
+                auto [a, b] = find(points[i], points[j]);
+                ans = max(ans, ++f[a][b] + 1);
             }
         }
         return ans;
