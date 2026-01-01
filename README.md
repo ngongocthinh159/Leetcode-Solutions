@@ -58,6 +58,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
@@ -127,6 +128,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
@@ -155,6 +157,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Sorting
 |  |
 | ------- |
@@ -518,4 +521,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [3527-alternating-groups-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3527-alternating-groups-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
