@@ -31,6 +31,13 @@ public:
                 g[words[i]][cnt].push_back(words[j]);
                 g[words[j]][cnt].push_back(words[i]);
             }
+        // for (auto &[u, M] : g) {
+        //     for (auto &[cnt, list] : M) {
+        //         sort(list.begin(), list.end(), [&](auto &s1, auto &s2) {
+        //             return g[s1][cnt].size() < g[s2][cnt].size();
+        //         });
+        //     }
+        // }
         for (auto &w : words) allowed.insert(w);
         dfs(words[0], master);
     }
