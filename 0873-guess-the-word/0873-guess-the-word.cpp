@@ -25,15 +25,13 @@ public:
     }
     void findSecretWord(vector<string>& words, Master& master) {
         int n = words.size();
+        random_shuffle(words.begin(), words.end());
         for (int i = 0; i < n; i++)
             for (int j = 0; j < i; j++) {
                 int cnt = findMatching(words[i], words[j]);
                 g[words[i]][cnt].push_back(words[j]);
                 g[words[j]][cnt].push_back(words[i]);
             }
-        for (auto &[u, M] : g)
-            for (auto &[cnt, list] : M)
-                random_shuffle(list.begin(), list.end());
         for (auto &w : words) allowed.insert(w);
         dfs(words[0], master);
     }
