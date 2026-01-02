@@ -76,6 +76,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [4072-total-sum-of-interaction-cost-in-tree-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4072-total-sum-of-interaction-cost-in-tree-groups) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Dynamic Programming
 |  |
@@ -202,6 +203,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
+| [4072-total-sum-of-interaction-cost-in-tree-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4072-total-sum-of-interaction-cost-in-tree-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -469,6 +471,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
+| [4072-total-sum-of-interaction-cost-in-tree-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4072-total-sum-of-interaction-cost-in-tree-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
