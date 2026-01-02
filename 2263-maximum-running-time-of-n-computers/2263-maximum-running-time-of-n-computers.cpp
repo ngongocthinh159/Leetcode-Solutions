@@ -1,16 +1,15 @@
 #define ll long long
 class Solution {
 public:
-    bool check(ll target, int n, vector<int> b) {
-        ll sum = 0;
-        for (auto &x : b) sum += min(1LL * x, target);
-        return sum / n >= target;
-    }
     long long maxRunTime(int n, vector<int>& batteries) {
         ll l = 1, r = 1e15;
         while (r - l > 1) {
             ll m = l + (r - l)/2;
-            if (check(m, n, batteries))
+            // for a target, a batteries can be used at most target (the remaining is forced to ignore)
+            // if follow this strategy, in the final we can assign more than n computer -> the current target can be archieved
+            ll sum = 0;
+            for (auto &x : batteries) sum += min(m, 1ll * x);
+            if (sum/n >= m)
                 l = m;
             else
                 r = m;
