@@ -12,6 +12,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0980-find-the-shortest-superstring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0980-find-the-shortest-superstring) |
@@ -113,6 +114,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [0956-number-of-music-playlists](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0956-number-of-music-playlists) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -312,6 +314,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
+| [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [0980-find-the-shortest-superstring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0980-find-the-shortest-superstring) |
 | [0981-delete-columns-to-make-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -529,4 +532,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
