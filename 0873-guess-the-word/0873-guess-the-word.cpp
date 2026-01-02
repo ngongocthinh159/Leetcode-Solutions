@@ -9,7 +9,6 @@
 class Solution {
 public:
     unordered_map<string,unordered_map<int,vector<string>>> g;
-    unordered_set<string> vis;
     unordered_set<string> allowed;
     int findMatching(string &s, string &t) {
         int cnt = 0;
@@ -18,12 +17,11 @@ public:
     }
     void dfs(string& u, Master& master) {
         int cnt = master.guess(u);
-        vis.insert(u);
+        allowed.erase(u);
         unordered_set<string> nallowed;
-        for (auto &v : g[u][cnt]) if (allowed.count(v) && !vis.count(v)) nallowed.insert(v);
+        for (auto &v : g[u][cnt]) if (allowed.count(v)) nallowed.insert(v);
         allowed = nallowed;
-        for (auto v : nallowed) if (!vis.count(v) && allowed.count(v))
-            dfs(v, master);
+        for (auto v : nallowed) if (allowed.count(v)) dfs(v, master);
     }
     void findSecretWord(vector<string>& words, Master& master) {
         int n = words.size();
