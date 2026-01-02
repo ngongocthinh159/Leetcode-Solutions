@@ -19,6 +19,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0981-delete-columns-to-make-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
@@ -230,6 +231,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
