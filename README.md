@@ -41,6 +41,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -172,6 +173,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2213-find-all-people-with-secret](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2213-find-all-people-with-secret) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -263,6 +265,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -276,6 +279,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
