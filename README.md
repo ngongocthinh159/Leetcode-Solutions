@@ -141,6 +141,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
+| [4164-last-remaining-integer-after-alternating-deletion-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4164-last-remaining-integer-after-alternating-deletion-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -553,4 +554,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
+## Recursion
+|  |
+| ------- |
+| [4164-last-remaining-integer-after-alternating-deletion-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4164-last-remaining-integer-after-alternating-deletion-operations) |
 <!---LeetCode Topics End-->
