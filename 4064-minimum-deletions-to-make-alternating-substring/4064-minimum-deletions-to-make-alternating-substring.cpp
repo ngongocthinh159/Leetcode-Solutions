@@ -1,91 +1,66 @@
-#include<ext/pb_ds/assoc_container.hpp>
-#include<ext/pb_ds/tree_policy.hpp>
+struct FenwickTree {
+    vector<int> bit;  // binary indexed tree
+    int n;
 
-using namespace __gnu_pbds;
+    FenwickTree(int n) {
+        this->n = n;
+        bit.assign(n, 0);
+    }
 
-typedef tree<pair<int, int>, null_type, less<pair<int, int>>, rb_tree_tag, tree_order_statistics_node_update > pbds; // find_by_order, order_of_key
+    FenwickTree(vector<int> const &a) : FenwickTree(a.size()) {
+        for (size_t i = 0; i < a.size(); i++)
+            add(i, a[i]);
+    }
 
+    int sum(int r) {
+        int ret = 0;
+        for (; r >= 0; r = (r & (r + 1)) - 1)
+            ret += bit[r];
+        return ret;
+    }
 
+    int sum(int l, int r) {
+        return sum(r) - sum(l - 1);
+    }
+
+    void add(int idx, int delta) {
+        for (; idx < n; idx = idx | (idx + 1))
+            bit[idx] += delta;
+    }
+};
 class Solution {
 public:
     vector<int> minDeletions(string s, vector<vector<int>>& queries) {
-        int n = s.size(), q = queries.size();
-        pbds S;
-
-        for (int i = 0; i < n;) {
-            char c = s[i];
-            int st = i, end = i;
-            while (i < n && s[i] == c) end = i++;
-            S.insert({st, end});
-        }
-
-        vector<int> ans;
-        auto find = [&](int idx) -> pbds::iterator {
-            auto it = S.upper_bound({idx, INT_MAX});
-            it--;
-            return it;
-        };
-
+        int n = s.size();
+        vector<int> v(n);
+        for (int i = 1; i < n; i++) v[i] = s[i] == s[i - 1];
+        FenwickTree tree(v);
         int t, j, l, r;
-        for (int i = 0; i < q; i++) {
-            t = queries[i][0];
+        vector<int> ans;
+        for (auto &q : queries) {
+            t = q[0];
             if (t == 1) {
-                j = queries[i][1];
+                int j = q[1];
 
-                auto it = find(j);
-                auto [ll, rr] = *it;
-                if (ll == j && rr == j) {
-                    int st = j, end = j;
-                    if (j - 1 >= 0) {
-                        auto pit = prev(it);
-                        st = (*pit).first;
-                        S.erase(pit);
-                    }
-                    if (j + 1 < n) {
-                        auto nit = next(it);
-                        end = (*nit).second;
-                        S.erase(nit);
-                    }
-                    S.erase(it);
-                    S.insert({st, end});
-                } else if (ll == j) {
-                    int st = j, end = j;
-                    if (j - 1 >= 0) {
-                        auto pit = prev(it);
-                        st = (*pit).first;
-                        S.erase(pit);
-                    }
-                    S.erase(it);
-                    S.insert({st, end});
-                    S.insert({j + 1, rr});
-                } else if (rr == j) {
-                    int st = j, end = j;
-                    if (j + 1 < n) {
-                        auto nit = next(it);
-                        end = (*nit).second;
-                        S.erase(nit);
-                    }
-                    S.erase(it);
-                    S.insert({st, end});
-                    S.insert({ll, j - 1});
-                } else {
-                    S.erase(it);
-                    S.insert({j, j});
-                    S.insert({ll, j - 1});
-                    S.insert({j + 1, rr});
+                int oval = tree.sum(j, j);
+                int nval = j == 0 ? 0 : s[j] != s[j - 1];
+                int delta = -oval + nval;
+
+                tree.add(j, delta);
+                if (j + 1 < n) {
+                    oval = tree.sum(j + 1, j + 1);
+                    nval = s[j + 1] != s[j];
+                    delta = -oval + nval;
+                    tree.add(j + 1, delta);
                 }
 
-            } else if (t == 2) {
-                l = queries[i][1], r = queries[i][2];
-
-                auto it1 = S.upper_bound({l, INT_MAX});
-                it1--;
-
-                auto it2 = S.upper_bound({r, INT_MAX});
-                it2--;
-
-                int res = S.order_of_key(*it2) - S.order_of_key(*it1) + 1;
-                ans.push_back(r - l + 1 - res);
+                s[j] ^= 'A' ^ 'B';
+            } else {
+                int l = q[1] + 1, r = q[2];
+                if (l <= r)
+                    ans.push_back(tree.sum(l, r));
+                else
+                    ans.push_back(0);
             }
         }
         return ans;
