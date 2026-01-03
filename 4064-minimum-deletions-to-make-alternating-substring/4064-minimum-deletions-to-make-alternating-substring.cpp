@@ -37,14 +37,12 @@ public:
                 if (ll == j && rr == j) {
                     int st = j, end = j;
                     if (j - 1 >= 0) {
-                        // auto pit = prev(it);
-                        auto pit = find(j - 1);
+                        auto pit = prev(it);
                         st = (*pit).first;
                         S.erase(pit);
                     }
                     if (j + 1 < n) {
-                        // auto nit = next(it);
-                        auto nit = find(j + 1);
+                        auto nit = next(it);
                         end = (*nit).second;
                         S.erase(nit);
                     }
@@ -53,8 +51,7 @@ public:
                 } else if (ll == j) {
                     int st = j, end = j;
                     if (j - 1 >= 0) {
-                        // auto pit = prev(it);
-                        auto pit = find(j - 1);
+                        auto pit = prev(it);
                         st = (*pit).first;
                         S.erase(pit);
                     }
@@ -64,8 +61,7 @@ public:
                 } else if (rr == j) {
                     int st = j, end = j;
                     if (j + 1 < n) {
-                        // auto nit = next(it);
-                        auto nit = find(j + 1);
+                        auto nit = next(it);
                         end = (*nit).second;
                         S.erase(nit);
                     }
@@ -79,22 +75,15 @@ public:
                     S.insert({j + 1, rr});
                 }
 
-                // s[j] ^= 'A' ^ 'B';
             } else if (t == 2) {
                 l = queries[i][1], r = queries[i][2];
-                // int res = 0;
+
                 auto it1 = S.upper_bound({l, INT_MAX});
                 it1--;
-                // cout << (*it1).first << " " << (*it1).second << "\n";
 
                 auto it2 = S.upper_bound({r, INT_MAX});
                 it2--;
-                // cout << (*it2).first << " " << (*it2).second << "\n";
-                // for (auto p : S) {
-                //     cout << p.first << " " << p.second << "\n"; 
-                // }
-                // cout << "\n";
-                // cout << "\n";
+
                 int res = S.order_of_key(*it2) - S.order_of_key(*it1) + 1;
                 ans.push_back(r - l + 1 - res);
             }
