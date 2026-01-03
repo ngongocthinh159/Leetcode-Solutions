@@ -56,11 +56,8 @@ public:
 
                 s[j] ^= 'A' ^ 'B';
             } else {
-                int l = q[1] + 1, r = q[2];
-                if (l <= r)
-                    ans.push_back(tree.sum(l, r));
-                else
-                    ans.push_back(0);
+                int l = q[1], r = q[2];
+                ans.push_back(tree.sum(l, r) - tree.sum(l, l));
             }
         }
         return ans;
