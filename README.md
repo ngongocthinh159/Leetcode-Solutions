@@ -94,6 +94,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
