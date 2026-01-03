@@ -344,6 +344,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
+| [4064-minimum-deletions-to-make-alternating-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-minimum-deletions-to-make-alternating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -388,6 +389,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4064-minimum-deletions-to-make-alternating-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-minimum-deletions-to-make-alternating-substring) |
 ## Union Find
 |  |
 | ------- |
