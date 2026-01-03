@@ -79,6 +79,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [4072-total-sum-of-interaction-cost-in-tree-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4072-total-sum-of-interaction-cost-in-tree-groups) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4145-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4145-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,12 +386,14 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
+| [4145-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4145-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Segment Tree
 |  |
 | ------- |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4064-minimum-deletions-to-make-alternating-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-minimum-deletions-to-make-alternating-substring) |
+| [4145-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4145-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Union Find
 |  |
 | ------- |
