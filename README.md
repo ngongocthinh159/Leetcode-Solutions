@@ -24,6 +24,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1071-binary-prefix-divisible-by-5](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1284-four-divisors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1284-four-divisors) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -125,6 +126,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [0956-number-of-music-playlists](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0956-number-of-music-playlists) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1284-four-divisors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1284-four-divisors) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
