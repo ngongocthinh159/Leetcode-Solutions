@@ -79,6 +79,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [4072-total-sum-of-interaction-cost-in-tree-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4072-total-sum-of-interaction-cost-in-tree-groups) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 | [4145-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4145-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
+| [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
+| [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 | [4164-last-remaining-integer-after-alternating-deletion-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4164-last-remaining-integer-after-alternating-deletion-operations) |
 ## Simulation
 |  |
@@ -169,6 +172,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -359,6 +363,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 ## Bitmask
 |  |
 | ------- |
