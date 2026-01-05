@@ -13,7 +13,7 @@ public:
         }
         while (i < n) c[k++] = a[i++];
         while (j < m) c[k++] = b[j++];
-        a = c;
+        swap(a, c);
     }
     long long minMergeCost(vector<vector<int>>& lists) {
         int n = lists.size();
