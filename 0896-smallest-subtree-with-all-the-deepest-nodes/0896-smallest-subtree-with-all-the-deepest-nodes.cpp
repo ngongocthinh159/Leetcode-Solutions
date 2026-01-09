@@ -11,31 +11,17 @@
  */
 class Solution {
 public:
-    int first, last;
     TreeNode* ans = nullptr;
     int mxd = -1;
-    void dfs(TreeNode* root, int d) {
-        if (!root) return;
-        if (mxd < d) {
-            mxd = d;
-            first = last = root->val;
-        } else if (mxd == d) {
-            last = root->val;
-        }
-        dfs(root->left, d + 1);
-        dfs(root->right, d + 1);
-    }
-    pair<bool,bool> dfs2(TreeNode* root) {
-        if (!root) return {false, false};
-        auto l = dfs2(root->left);
-        auto r = dfs2(root->right);
-        pair<bool,bool> res = {l.first || r.first || root->val == first, l.second || r.second || root->val == last};
-        if (res.first && res.second && !ans) ans = root;
-        return res;
+    int dfs(TreeNode* root, int d) {
+        if (!root) return d;
+        int l = dfs(root->left, d + 1);
+        int r = dfs(root->right, d + 1);
+        if (l == r && mxd <= l) mxd = l, ans = root;
+        return max(l, r);
     }
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
         dfs(root, 0);
-        dfs2(root);
         return ans;
     }
 };
