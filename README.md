@@ -87,6 +87,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4110-count-stable-subarrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4110-count-stable-subarrays) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 | [4145-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4145-minimum-inversion-count-in-subarrays-of-fixed-length) |
+| [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +158,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 | [4164-last-remaining-integer-after-alternating-deletion-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4164-last-remaining-integer-after-alternating-deletion-operations) |
+| [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -282,6 +284,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -370,6 +373,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 | [4064-minimum-deletions-to-make-alternating-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-minimum-deletions-to-make-alternating-substring) |
+| [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -450,6 +454,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
+| [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
 ## Design
 |  |
 | ------- |
