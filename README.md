@@ -53,6 +53,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3527-alternating-groups-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3527-alternating-groups-iii) |
@@ -149,6 +150,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2288-count-operations-to-obtain-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -467,6 +469,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Stack
