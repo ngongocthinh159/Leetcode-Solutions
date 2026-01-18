@@ -63,6 +63,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
+| [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3763-separate-squares-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3775-separate-squares-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -123,6 +124,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
