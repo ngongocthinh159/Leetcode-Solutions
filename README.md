@@ -38,6 +38,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
+| [1895-largest-magic-square](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -251,6 +252,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1895-largest-magic-square](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Hash Table
@@ -338,6 +340,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
