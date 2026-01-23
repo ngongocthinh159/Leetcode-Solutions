@@ -1,63 +1,76 @@
 #define ll long long
-using It = list<tuple<ll,int>>::iterator;
+struct node {
+    ll sum;
+    int idx;
+    node* prev;
+    node* nxt;
+    node(ll _sum, int _idx) {
+        sum = _sum, idx = _idx, prev = nxt = nullptr;
+    }
+};
 struct P {
-    It it;
-    It nit;
+    node* cur;
+    node* nxt;
+    P(node* _cur, node* _nxt) : cur(_cur), nxt(_nxt) {}
 };
-struct cmp {
-    bool operator() (P const&a, P const&b) const {
-        if (get<0>(*a.it) + get<0>(*a.nit) < get<0>(*b.it) + get<0>(*b.nit)) return true;
-        if ((get<0>(*a.it) + get<0>(*a.nit) == get<0>(*b.it) + get<0>(*b.nit)) &&
-            get<1>(*a.it) < get<1>(*b.it)) return true;
-        return false;
-    };
-};
+ll sumP(const P &p) {
+    return p.cur->sum + p.nxt->sum;
+}
+int idxP(const P &p) {
+    return p.cur->idx;
+}
 class Solution {
 public:
     int minimumPairRemoval(vector<int>& nums) {
-        int n = nums.size();
-        list<tuple<ll,int>> ml;
-        set<P, cmp> S;
-        int cnt = 0;
-        for (int i = 0; i < n; i++) {
-            auto it = ml.insert(ml.end(), {nums[i], i});
-            if (i > 0) {
-                S.insert(P{prev(it), it});
-                if (nums[i] < nums[i -1]) cnt++;
-            }
+        int n = nums.size(), cnt = 0, ans = 0;
+        auto Cmp = [](auto &p1, auto &p2) {
+            if (sumP(p1) < sumP(p2)) return true;
+            if (sumP(p1) == sumP(p2) && idxP(p1) < idxP(p2)) return true;
+            return false;
+        };
+        set<P, decltype(Cmp)> S;
+        node* prev = new node{nums[0], 0};
+        node* root = prev;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < nums[i - 1]) cnt++;
+            node* cur = new node{nums[i], i};
+            cur->prev = prev;
+            prev->nxt = cur;
+            S.insert({prev, cur});
+            prev = cur;
         }
-        if (!cnt) return 0;
-        int ans = 0;
+        unordered_set<node*> merged;
+        bool f = false;
         while (S.size() && cnt) {
-            ans++;
             auto p = *S.begin();
-            auto it = p.it;
-            auto nit = p.nit;
+            auto cur = p.cur;
+            auto nxt = p.nxt; 
             S.erase(S.begin());
-            if (get<0>(*it) > get<0>(*nit)) cnt--;
-            
-            auto nnit = next(nit);
-            auto pit = it != ml.begin() ? prev(it) : ml.end();
+            if (merged.count(cur) || merged.count(nxt)) continue;
+            merged.insert(cur);
+            merged.insert(nxt);
 
-            if (nnit != ml.end()) {
-                S.erase({nit, nnit});
-                if (get<0>(*nit) > get<0>(*nnit)) cnt--;
+            ans++;
+
+            if (cur->sum > nxt->sum) cnt--;
+            node* prv = cur->prev;
+            node* nnxt = nxt->nxt;
+            node* inserted = new node{sumP(p), idxP(p)};
+            if (prv != nullptr) {
+                prv->nxt = inserted;
+                inserted->prev = prv;
+                if (prv->sum > inserted->sum) cnt++;
+                if (prv->sum > cur->sum) cnt--;
+                S.erase(P{prv, inserted});
+                S.insert(P{prv, inserted});
             }
-            if (pit != ml.end()) {
-                S.erase({pit, it});
-                if (get<0>(*pit) > get<0>(*it)) cnt--;
-            }
-            
-            auto insert_it = ml.insert(nnit, {get<0>(*it) + get<0>(*nit), get<1>(*it)});
-            ml.erase(it);
-            ml.erase(nit);
-            if (nnit != ml.end()) {
-                S.insert(P{insert_it, nnit});
-                if (get<0>(*insert_it) > get<0>(*nnit)) cnt++;
-            }
-            if (pit != ml.end()) {
-                S.insert(P{pit, insert_it});
-                if (get<0>(*pit) > get<0>(*insert_it)) cnt++;
+            if (nnxt != nullptr) {
+                nnxt->prev = inserted;
+                inserted->nxt = nnxt;   
+                if (inserted->sum > nnxt->sum) cnt++;
+                if (nxt->sum > nnxt->sum) cnt--;
+                S.erase(P{inserted, nnxt});
+                S.insert(P{inserted, nnxt});
             }
         }
         return ans;
