@@ -7,9 +7,9 @@ public:
         for (auto [v, eidx] : g[u]) if (v != p) {
             flip ^= dfs(v, u, eidx, start, target);
         }
-        bool dif = start[u] != target[u];
-        if (dif ^ flip) ans.push_back(idx);
-        return dif ^ flip;
+        flip ^= start[u] != target[u];
+        if (flip) ans.push_back(idx);
+        return flip;
     }
     vector<int> minimumFlips(int n, vector<vector<int>>& edges, string start, string target) {
         int idx = 0;
