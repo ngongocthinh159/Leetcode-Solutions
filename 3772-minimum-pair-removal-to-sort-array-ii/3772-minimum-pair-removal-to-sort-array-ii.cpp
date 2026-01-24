@@ -41,7 +41,7 @@ public:
             nums[l] = sum;
             next[l] = next[r];
             len[l] += len[r];
-            len[r] = -1;
+            len[r] = len[l];
         }
         return ans;
     }
