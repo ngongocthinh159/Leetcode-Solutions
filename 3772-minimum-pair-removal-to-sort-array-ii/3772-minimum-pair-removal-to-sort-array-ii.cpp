@@ -22,6 +22,7 @@ public:
         while (q.size() && cnt) {
             auto [sum, l, lenl, r, lenr] = q.top();
             q.pop();
+            // lazy deletion: a pair is staled either the len of left segment or len of right segment does not follow the latest len
             if (len[l] != lenl || len[r] != lenr) continue;
             ans++;
 
