@@ -134,6 +134,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 ## Math
 |  |
@@ -166,6 +167,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 | [4164-last-remaining-integer-after-alternating-deletion-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4164-last-remaining-integer-after-alternating-deletion-operations) |
 | [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
