@@ -7,40 +7,41 @@ class Solution {
 public:
     int minimumPairRemoval(vector<int>& arr) {
         vector<ll> nums(arr.begin(), arr.end());
-        int n = arr.size(), cnt = 0, ans = 0;
-        priority_queue<array<ll, 3>,vector<array<ll, 3>>, greater<>> q;
+        int n = nums.size(), cnt = 0, ans = 0;
+        priority_queue<array<ll, 5>,vector<array<ll, 5>>, greater<>> q;
+        vector<int> len(n, 1);
         vector<bool> removed(n);
         for (int i = 0; i < n; i++) {   
             prev[i] = i - 1;
             next[i] = i + 1; 
             if (i > 0) {
-                q.push({nums[i] + nums[i - 1], i - 1, i});
+                q.push({nums[i] + nums[i - 1], i - 1, 1, i, 1});
                 if (nums[i] < nums[i - 1]) cnt++;
             }
         }
         while (q.size() && cnt) {
-            auto [sum, l, r] = q.top();
+            auto [sum, l, lenl, r, lenr] = q.top();
             q.pop();
-            if (removed[l] || removed[r] || nums[l] + nums[r] != sum) continue;
-            // cout << l << ' ' << r << '\n';
+            if (len[l] != lenl || len[r] != lenr) continue;
             ans++;
 
             if (nums[l] > nums[r]) cnt--;
             if (prev[l] != -1) {
                 if (nums[prev[l]] > nums[l]) cnt--;
                 if (nums[prev[l]] > sum) cnt++;
-                q.push({nums[prev[l]] + sum, prev[l], l});
+                q.push({nums[prev[l]] + sum, prev[l], len[prev[l]], l, len[l] + len[r]});
             }
             if (next[r] != n) {
                 if (nums[r] > nums[next[r]]) cnt--;
                 if (sum > nums[next[r]]) cnt++;
-                q.push({sum + nums[next[r]], l, next[r]});
+                q.push({sum + nums[next[r]], l, len[l] + len[r], next[r], len[next[r]]});
                 prev[next[r]] = l;
             }
 
             nums[l] = sum;
             next[l] = next[r];
-            removed[r] = 1;
+            len[l] += len[r];
+            len[r] = -1;
         }
         return ans;
     }
