@@ -1,77 +1,46 @@
+#define N 100005
 #define ll long long
-struct node {
-    ll sum;
-    int idx;
-    node* prev;
-    node* nxt;
-    node(ll _sum, int _idx) {
-        sum = _sum, idx = _idx, prev = nxt = nullptr;
-    }
-};
-struct P {
-    node* cur;
-    node* nxt;
-    P(node* _cur, node* _nxt) : cur(_cur), nxt(_nxt) {}
-};
-ll sumP(const P &p) {
-    return p.cur->sum + p.nxt->sum;
-}
-int idxP(const P &p) {
-    return p.cur->idx;
-}
+#define prev __prev
+#define next __next
+int prev[N], next[N];
 class Solution {
 public:
-    int minimumPairRemoval(vector<int>& nums) {
-        int n = nums.size(), cnt = 0, ans = 0;
-        auto Cmp = [](auto &p1, auto &p2) {
-            if (sumP(p1) < sumP(p2)) return true;
-            if (sumP(p1) == sumP(p2) && idxP(p1) < idxP(p2)) return true;
-            return false;
-        };
-        set<P, decltype(Cmp)> S;
-        node* prev = new node{nums[0], 0};
-        node* root = prev;
-        for (int i = 1; i < n; i++) {
-            if (nums[i] < nums[i - 1]) cnt++;
-            node* cur = new node{nums[i], i};
-            cur->prev = prev;
-            prev->nxt = cur;
-            S.insert({prev, cur});
-            prev = cur;
+    int minimumPairRemoval(vector<int>& arr) {
+        vector<ll> nums(arr.begin(), arr.end());
+        int n = arr.size(), cnt = 0, ans = 0;
+        priority_queue<array<ll, 3>,vector<array<ll, 3>>, greater<>> q;
+        vector<bool> removed(n);
+        for (int i = 0; i < n; i++) {   
+            prev[i] = i - 1;
+            next[i] = i + 1; 
+            if (i > 0) {
+                q.push({nums[i] + nums[i - 1], i - 1, i});
+                if (nums[i] < nums[i - 1]) cnt++;
+            }
         }
-        unordered_set<node*> merged;
-        bool f = false;
-        while (S.size() && cnt) {
-            auto p = *S.begin();
-            auto cur = p.cur;
-            auto nxt = p.nxt; 
-            S.erase(S.begin());
-            if (merged.count(cur) || merged.count(nxt)) continue;
-            merged.insert(cur);
-            merged.insert(nxt);
-
+        while (q.size() && cnt) {
+            auto [sum, l, r] = q.top();
+            q.pop();
+            if (removed[l] || removed[r] || nums[l] + nums[r] != sum) continue;
+            // cout << l << ' ' << r << '\n';
             ans++;
 
-            if (cur->sum > nxt->sum) cnt--;
-            node* prv = cur->prev;
-            node* nnxt = nxt->nxt;
-            node* inserted = new node{sumP(p), idxP(p)};
-            if (prv != nullptr) {
-                prv->nxt = inserted;
-                inserted->prev = prv;
-                if (prv->sum > inserted->sum) cnt++;
-                if (prv->sum > cur->sum) cnt--;
-                S.erase(P{prv, inserted});
-                S.insert(P{prv, inserted});
+            if (nums[l] > nums[r]) cnt--;
+            if (prev[l] != -1) {
+                if (nums[prev[l]] > nums[l]) cnt--;
+                if (nums[prev[l]] > sum) cnt++;
+                q.push({nums[prev[l]] + sum, prev[l], l});
             }
-            if (nnxt != nullptr) {
-                nnxt->prev = inserted;
-                inserted->nxt = nnxt;   
-                if (inserted->sum > nnxt->sum) cnt++;
-                if (nxt->sum > nnxt->sum) cnt--;
-                S.erase(P{inserted, nnxt});
-                S.insert(P{inserted, nnxt});
+            if (next[r] != n) {
+                if (nums[r] > nums[next[r]]) cnt--;
+                if (sum > nums[next[r]]) cnt++;
+                q.push({sum + nums[next[r]], l, next[r]});
+                prev[next[r]] = l;
             }
+
+            nums[l] = sum;
+            next[l] = next[r];
+            removed[r] = 1;
         }
         return ans;
     }
