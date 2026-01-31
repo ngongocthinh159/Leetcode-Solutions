@@ -131,6 +131,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
@@ -291,6 +292,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
@@ -398,6 +400,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2317-count-collisions-on-a-road](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4019-remove-k-balanced-substrings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4019-remove-k-balanced-substrings) |
@@ -435,6 +438,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2037-count-square-sum-triples](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -486,6 +490,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
