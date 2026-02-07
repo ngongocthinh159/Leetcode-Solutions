@@ -124,6 +124,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
@@ -397,6 +398,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -520,6 +522,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2317-count-collisions-on-a-road](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4019-remove-k-balanced-substrings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4019-remove-k-balanced-substrings) |
