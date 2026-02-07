@@ -57,9 +57,7 @@ public:
         dist++;
         long long ans = 1e18 + 5;
         myds q(k - 1);
-        for (int i = 1; i <= min(n - 1, dist); i++) {
-            q.insert({nums[i], i});
-        }
+        for (int i = 1; i <= min(n - 1, dist); i++) q.insert({nums[i], i});
         ans = min(ans, nums[0] + q.query());
         for (int i = dist + 1; i < n; i++) {
             int l = i - dist + 1;
