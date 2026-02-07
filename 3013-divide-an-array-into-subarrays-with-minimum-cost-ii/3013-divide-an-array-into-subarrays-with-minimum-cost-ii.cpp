@@ -6,20 +6,6 @@ struct myds {
     myds(int _k) : k(_k) {}
 
     void reconcile() {
-        while (bot.size() && top.size() && top.begin()->first < bot.rbegin()->first) {
-            auto pbot = *bot.rbegin();
-            auto ptop = *top.begin();
-            
-            bot.erase(pbot);
-            sumBot -= pbot.first;
-            top.erase(ptop);
-            sumTop -= ptop.first;
-
-            bot.insert(ptop);
-            sumBot += ptop.first;
-            top.insert(pbot);
-            sumTop += pbot.first;
-        }
         while (top.size() && bot.size() < k) {
             auto ptop = *top.begin();
             top.erase(ptop);
@@ -36,8 +22,13 @@ struct myds {
         }
     }
     void insert(const pair<int,int> &p) {
-        bot.insert(p);
-        sumBot += p.first;
+        if (bot.empty() || (bot.size() && p.first <= bot.rbegin()->first)) {
+            bot.insert(p);
+            sumBot += p.first;
+        } else {
+            top.insert(p);
+            sumTop += p.first;
+        }
         reconcile();
     }  
     void remove(const pair<int,int> &p) {
