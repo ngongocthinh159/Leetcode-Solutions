@@ -236,6 +236,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -564,6 +565,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -612,6 +614,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
