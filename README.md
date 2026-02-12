@@ -306,6 +306,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
@@ -419,6 +420,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4019-remove-k-balanced-substrings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4019-remove-k-balanced-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -458,6 +460,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -513,6 +516,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
+| [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
