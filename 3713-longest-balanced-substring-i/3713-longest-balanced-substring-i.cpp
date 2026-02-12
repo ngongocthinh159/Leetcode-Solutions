@@ -3,9 +3,8 @@ public:
     int longestBalanced(string s) {
         int n = s.size(), ans = 0;
         int cnt[26]{};
-        unordered_map<int,int> f;
         for (int i = 0; i < n; i++) {
-            f.clear();
+            unordered_map<int,int> f;
             for (int j = i; j >= 0; j--) {
                 int idx = s[j] - 'a';
                 if (cnt[idx] && --f[cnt[idx]] == 0)
