@@ -17,21 +17,21 @@ public:
             if (s[i] == 'a') {
                 a++;
                 bbc = cbc = 0;
-                fbc.clear();
+                fbc = unordered_map<int,int>();
                 fbc[0] = i;
                 aab++, aac++;
             }
             else if (s[i] == 'b') {
                 b++;
                 aac = cac = 0;
-                fac.clear();
+                fac = unordered_map<int,int>();
                 fac[0] = i;
                 bab++, bbc++;
             }
             else {
                 c++;
                 aab = bab = 0;
-                fab.clear();
+                fab = unordered_map<int,int>();
                 fab[0] = i;
                 cbc++, cac++;
             }
