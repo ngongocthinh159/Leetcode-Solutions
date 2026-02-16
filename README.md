@@ -434,6 +434,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0980-find-the-shortest-superstring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0980-find-the-shortest-superstring) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -593,6 +594,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
