@@ -1,4 +1,4 @@
-#define N 1005
+#define N 105
 double dp[N];
 class Solution {
 public:
