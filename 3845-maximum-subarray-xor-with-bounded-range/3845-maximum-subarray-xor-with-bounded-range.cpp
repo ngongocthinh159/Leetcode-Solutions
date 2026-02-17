@@ -50,7 +50,7 @@ class Solution {
 public:
     int maxXor(vector<int>& nums, int k) {
         int n = nums.size();
-        int ans = *max_element(nums.begin(), nums.end());
+        int ans = 0;
         node *root = new node;
         deque<int> mnq, mxq;
         vector<int> pref(n + 1);
