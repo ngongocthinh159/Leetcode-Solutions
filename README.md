@@ -441,6 +441,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0067-add-binary](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0980-find-the-shortest-superstring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0980-find-the-shortest-superstring) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
