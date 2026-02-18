@@ -37,10 +37,10 @@ public:
     }
     void acc_ans(int u, int p, int wu) {
         int cnt = __builtin_popcount(wu);
-        if (f.count(wu)) ans += f[wu];
+        if (f.find(wu) != f.end()) ans += f[wu];
         for (int i = 0; i < 26; i++) {
             int nmask = wu ^ (1 << i);
-            if (f.count(nmask)) ans += f[nmask];
+            if (f.find(nmask) != f.end()) ans += f[nmask];
         }
 
         buf[top++] = wu;
