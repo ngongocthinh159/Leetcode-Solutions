@@ -49,6 +49,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -136,6 +137,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -457,6 +459,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1907-count-pairs-with-xor-in-a-range) |
+| [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -470,6 +473,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0980-find-the-shortest-superstring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0980-find-the-shortest-superstring) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
+| [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
