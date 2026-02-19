@@ -26,12 +26,12 @@ public:
             if (b1 == b2 && q1.r < q2.r) return true;
             return false;
         });
-        auto add = [](int x, vector<set<int>> &f, unordered_map<int,int> &curf, int &mxf) {
+        auto add = [&](int x) {
             f[curf[x]].erase(x);
             f[++curf[x]].insert(x);
             if (curf[x] > mxf) mxf = curf[x];
         };
-        auto remove = [](int x, vector<set<int>> &f, unordered_map<int,int> &curf, int &mxf) {
+        auto remove = [&](int x) {
             f[curf[x]].erase(x);
             if (--curf[x] != 0) f[curf[x]].insert(x);
             if (!f[mxf].size()) mxf--;
@@ -44,16 +44,16 @@ public:
                 int curBlock = qs[i].l / BLOCK_SIZE;
                 while (i < m && qs[i].l / BLOCK_SIZE == curBlock) {
                     while (r < qs[i].r) {
-                        add(nums[++r], f, curf, mxf);
+                        add(nums[++r]);
                     }
                     while (l < qs[i].l) {
-                        remove(nums[l++], f, curf, mxf);
+                        remove(nums[l++]);
                     }
                     while (l > qs[i].l) {
-                        add(nums[--l], f, curf, mxf);
+                        add(nums[--l]);
                     }
                     while (r > qs[i].r) {
-                        remove(nums[r--], f, curf, mxf);
+                        remove(nums[r--]);
                     }
 
                     if (mxf < qs[i].th)
