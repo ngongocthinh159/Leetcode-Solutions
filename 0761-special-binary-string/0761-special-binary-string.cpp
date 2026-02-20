@@ -6,10 +6,11 @@ public:
         int i = 0, n = s.size();
         vector<string> v;
         while (i < n) {
-            int open = INT_MAX, st = i, end = i;
-            while (i < n && (open != 0 || open == INT_MAX)) {
+            int open = 0, st = i, end = i;
+            bool first = true;
+            while (i < n && (open != 0 || first)) {
+                first = false;
                 end = i;
-                if (open == INT_MAX) open = 0;
                 if (s[i] == '1') open++;
                 else open--;
                 i++;
