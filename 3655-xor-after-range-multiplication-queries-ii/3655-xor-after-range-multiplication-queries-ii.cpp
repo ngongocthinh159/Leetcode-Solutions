@@ -1,17 +1,23 @@
 #define ll long long
+#define N 100005
+ll inv[N];
+const int MOD = 1e9 + 7;
+ll expo(ll a, ll b) {
+    ll res = 1;
+    ll cur = a;
+    while (b) {
+        if (b&1) res = res * cur % MOD;
+        cur = cur * cur % MOD;
+        b >>= 1;
+    }
+    return res;
+}
+auto init = []{
+    for (int i = 0; i < N; i++) inv[i] = expo(i, MOD - 2);
+    return false;
+}();
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
-    ll expo(ll a, ll b) {
-        ll res = 1;
-        ll cur = a;
-        while (b) {
-            if (b&1) res = res * cur % MOD;
-            cur = cur * cur % MOD;
-            b >>= 1;
-        }
-        return res;
-    }
     int xorAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size();
         const int MAGIC_NUM = sqrt(n);
@@ -27,7 +33,7 @@ public:
                 f[k][l] = f[k][l] * v % MOD;
                 int r2 = l + ((r - l) / k + 1) * k;
                 if (r2 < n)
-                    f[k][r2] = f[k][r2] * expo(v, MOD - 2) % MOD;
+                    f[k][r2] = f[k][r2] * inv[v] % MOD;
             }
         }
         for (auto &[k, affect] : f) {
