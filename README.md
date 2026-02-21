@@ -94,6 +94,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3981-jump-game-ix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3981-jump-game-ix) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
@@ -153,6 +154,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
+| [3981-jump-game-ix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3981-jump-game-ix) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
