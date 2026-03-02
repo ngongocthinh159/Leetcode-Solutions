@@ -19,10 +19,8 @@ public:
                 }
             }
             if (idx == -1) return -1;
-            for (int j = idx - 1; j >= i; j--) {
-                swap(grid[j], grid[j + 1]);
+            for (int j = idx - 1; j >= i; j--)
                 swap(cnt[j], cnt[j + 1]);
-            }
             ans += idx - i;
         }
         return ans;
