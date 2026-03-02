@@ -174,6 +174,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1284-four-divisors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1284-four-divisors) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
@@ -201,6 +202,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -479,6 +481,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
