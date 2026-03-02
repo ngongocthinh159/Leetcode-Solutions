@@ -315,6 +315,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1694-make-sum-divisible-by-p](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -441,6 +442,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -475,6 +477,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
@@ -655,6 +658,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -665,6 +669,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Binary Search Tree
 |  |
