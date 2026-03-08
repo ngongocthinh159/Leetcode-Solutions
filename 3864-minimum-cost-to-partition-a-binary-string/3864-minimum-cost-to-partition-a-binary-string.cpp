@@ -11,13 +11,13 @@ public:
     }
     long long dfs(int l, int r) {
         if (l == r) return getCost(l, r);
-        if (dp.count(l) && dp[l].count(r)) return dp[l][r];
+
         int len = r - l + 1;
         long long res = getCost(l, r);
-        if (len&1) return dp[l][r] = res;
+        if (len&1) return res;
         int m = (l + r) / 2;
         res = min(res, dfs(l, m) + dfs(m + 1, r));
-        return dp[l][r] = res;
+        return res;
     }
     long long minCost(string s, int encCost, int flatCost) {
         E = encCost;
