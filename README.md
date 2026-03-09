@@ -149,6 +149,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -415,6 +416,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1895-largest-magic-square](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
