@@ -363,6 +363,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3763-separate-squares-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3763-separate-squares-i) |
@@ -385,6 +386,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
@@ -757,8 +759,17 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
