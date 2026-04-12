@@ -17,10 +17,29 @@ public:
         for (int i = 0; i < n; i++)
             v.push_back({nums1[i], nums0[i]});
         sort(v.begin(), v.end(), [](auto &a, auto &b) {
-            if (a[0] != 0 && a[1] == 0 && !(b[0] != 0 && b[1] == 0)) return true;
-            if (b[0] != 0 && b[1] == 0 && !(a[0] != 0 && a[1] == 0)) return false;
-            if (a[0] > b[0]) return true;
-            if (a[0] == b[0] && a[1] < b[1]) return true;
+            int bit[4] = {1,0,1,0};
+            int i = 0, j = 0;
+            long long c[4] = {a[0], a[1], b[0], b[1]};
+            long long d[4] = {b[0], b[1], a[0], a[1]};
+            int cnt1 = c[0], cnt2 = d[0];
+            while (i < 4 && j < 4) {
+                if (cnt1 == 0) {
+                    i++;
+                    if (i < 4) cnt1 = c[i];
+                    continue;
+                }
+                if (cnt2 == 0) {
+                    j++;
+                    if (j < 4) cnt2 = d[j];
+                    continue;
+                }
+
+                if (bit[i] != bit[j]) return bit[i] > bit[j];
+
+                int take = min(cnt1, cnt2);
+                cnt1 -= take;
+                cnt2 -= take;
+            }
             return false;
         });
         // for (auto &vv : v) cout << vv[0] << ' ' << vv[1] << '\n';
