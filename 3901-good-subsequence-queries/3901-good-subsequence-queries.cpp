@@ -92,23 +92,27 @@ public:
             if (tree.queryGcd(1, 0, n - 1, 0, top - 1) == p) {
                 if (top != n) ans++;
                 else {
-                    for (int i = 0; i < top; i++) {
-                        int l = tree.queryGcd(1, 0, n - 1, 0, i - 1);
-                        int r = tree.queryGcd(1, 0, n - 1, i + 1, top - 1);
-                        if (l == -1) {
-                            if (r == p) {
-                                ans++;
-                                break;
-                            }
-                        } else if (r == -1) {
-                            if (l == p) {
-                                ans++;
-                                break;
-                            }
-                        } else {
-                            if (gcd(l, r) == p) {
-                                ans++;
-                                break;
+                    if (top > 32) {
+                        ans++;
+                    } else {
+                        for (int i = 0; i < top; i++) {
+                            int l = tree.queryGcd(1, 0, n - 1, 0, i - 1);
+                            int r = tree.queryGcd(1, 0, n - 1, i + 1, top - 1);
+                            if (l == -1) {
+                                if (r == p) {
+                                    ans++;
+                                    break;
+                                }
+                            } else if (r == -1) {
+                                if (l == p) {
+                                    ans++;
+                                    break;
+                                }
+                            } else {
+                                if (gcd(l, r) == p) {
+                                    ans++;
+                                    break;
+                                }
                             }
                         }
                     }
