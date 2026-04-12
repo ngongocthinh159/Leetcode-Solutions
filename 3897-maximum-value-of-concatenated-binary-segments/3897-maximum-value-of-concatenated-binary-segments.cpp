@@ -13,22 +13,16 @@ public:
     }
     int maxValue(vector<int>& nums1, vector<int>& nums0) {
         int n = nums1.size();
-        vector<array<int,2>> start,end,mid,v;
-        for (int i = 0; i < n; i++) {
-            if (nums1[i] != 0 && nums0[i] == 0) start.push_back({nums1[i], nums0[i]});
-            else if (nums1[i] == 0 && nums0[i] != 0) end.push_back({nums1[i], nums0[i]});
-            else mid.push_back({nums1[i], nums0[i]});
-            // v.push_back({nums1[i], nums0[i]});
-        }
-        sort(mid.begin(), mid.end(), [](auto &a, auto &b) {
-            // if (a[1] == 0 && b[1] != 0) return true;
+        vector<array<int,2>> v;
+        for (int i = 0; i < n; i++)
+            v.push_back({nums1[i], nums0[i]});
+        sort(v.begin(), v.end(), [](auto &a, auto &b) {
+            if (a[0] != 0 && a[1] == 0 && !(b[0] != 0 && b[1] == 0)) return true;
+            if (b[0] != 0 && b[1] == 0 && !(a[0] != 0 && a[1] == 0)) return false;
             if (a[0] > b[0]) return true;
             if (a[0] == b[0] && a[1] < b[1]) return true;
             return false;
         });
-        v.insert(v.end(), start.begin(), start.end());
-        v.insert(v.end(), mid.begin(), mid.end());
-        v.insert(v.end(), end.begin(), end.end());
         // for (auto &vv : v) cout << vv[0] << ' ' << vv[1] << '\n';
         // 2^0 + 2^1 + .. + 2^x = 2^(x + 1) - 1
         auto sumTo = [&] (long long r) -> long long  {
