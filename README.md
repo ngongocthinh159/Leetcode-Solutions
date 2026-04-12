@@ -723,6 +723,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Trie
 |  |
 | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Topological Sort
