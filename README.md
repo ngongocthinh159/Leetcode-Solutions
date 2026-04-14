@@ -55,6 +55,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -147,6 +148,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2376-count-special-integers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2376-count-special-integers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -246,6 +248,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2213-find-all-people-with-secret](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2463-minimum-total-distance-traveled](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
