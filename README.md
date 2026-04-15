@@ -58,6 +58,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2463-minimum-total-distance-traveled](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -468,6 +469,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2317-count-collisions-on-a-road](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
