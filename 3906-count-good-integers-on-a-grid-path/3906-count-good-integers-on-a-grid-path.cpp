@@ -29,7 +29,7 @@ public:
             for (int smaller = 0; smaller < 2; smaller++)
                 for (int last = 0; last < 10; last++) 
                     dp[i][smaller][last] = -1;
-        // cout << dfs(15, 0, 1, )
+        
         return dfs(0, 0, 0, b);
     }
     long long countGoodIntegersOnPath(long long l, long long r, string directions) {
@@ -40,10 +40,8 @@ public:
             if (c == 'D') i++;
             else j++;
             S.insert(4*i + j);
-            // cout << i << ' ' << j << '\n';
         }
         dp.assign(20, vector<vector<long long>>(2, vector<long long>(10)));
-        // cout << solve(r) << '\n';
         return solve(r) - solve(l - 1);    
     }
 };
