@@ -87,6 +87,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3763-separate-squares-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3763-separate-squares-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -165,6 +166,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
@@ -330,6 +332,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
