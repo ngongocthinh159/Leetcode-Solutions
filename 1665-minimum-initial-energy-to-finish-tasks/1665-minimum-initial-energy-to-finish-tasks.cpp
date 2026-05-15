@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/solutions/8212664/why-sorted-by-difference-math-explain-by-cocl/?envType=daily-question&envId=2026-05-12
 class Solution {
 public:
     int minimumEffort(vector<vector<int>>& tasks) {
