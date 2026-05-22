@@ -6,6 +6,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -395,6 +396,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
