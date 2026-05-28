@@ -39,9 +39,9 @@ public:
         }
         return p->idx;
     }
-    void dfs(node *root) {
+    void deleteTrie(node *root) {
         if (root == nullptr) return;
-        for (int i = 0; i < 26; i++) dfs(root->child[i]);
+        for (int i = 0; i < 26; i++) deleteTrie(root->child[i]);
         delete(root);
     }
     vector<int> stringIndices(vector<string>& wordsContainer, vector<string>& wordsQuery) {
@@ -56,7 +56,7 @@ public:
             reverse(wordsQuery[i].begin(), wordsQuery[i].end());
             ans[i] = query(root, wordsQuery[i]);
         }
-        dfs(root);
+        deleteTrie(root);
         return ans;
     }
 };
