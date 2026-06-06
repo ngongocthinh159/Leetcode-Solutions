@@ -53,12 +53,7 @@ struct segtree {
                 res.mx = max(res.mx, r.pref + lrDist);
             }
             res.mx = max(res.mx, lrDist);
-            // cout << "4: " << lrDist << '\n';
         }
-        // cout << "3: " << l1 << ' ' << r1 << ' ' << l.mx << '\n';
-        // cout << "3: " << l2 << ' ' << r2 << ' ' << r.mx << '\n';
-        // cout << "3: " << res.mx << '\n';
-        // cout << '\n';
         return res;
     }
     Ret mergeRet(Ret &l, Ret &r) {
@@ -75,7 +70,6 @@ struct segtree {
         build(2 * idx, s, m);
         build(2 * idx + 1, m + 1, e);
         nodes[idx] = merge(nodes[2 * idx], nodes[2 * idx + 1], s, m, m + 1, e);
-        // cout << "1: " << s << ' ' << e << ' ' << nodes[idx].mx << '\n';
     }
     void update(int idx, int s, int e, int pos) {
         if (s == e) {
@@ -126,7 +120,6 @@ public:
         }
 
         segtree tree(sz, posToDist);
-        // cout << tree.query(1, 0, 2, 0, 2).val.mx << '\n';
         vector<bool> ans;
         for (auto& q : queries) {
             if (q[0] == 1) {
