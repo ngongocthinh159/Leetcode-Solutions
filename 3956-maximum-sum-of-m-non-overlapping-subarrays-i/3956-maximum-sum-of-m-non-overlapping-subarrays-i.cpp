@@ -3,6 +3,7 @@ public:
     long long maximumSum(vector<int>& nums, int m, int l, int r) {
         int n = nums.size();
         const long long LINF = 1e15 + 5;
+        m = min(m, n/l);
         vector<vector<long long>> dp(m + 1, vector<long long>(n + 1, -LINF));
         vector<long long> pref(n + 1);
         for (int i = 1; i <= n; i++) pref[i] = pref[i - 1] + nums[i - 1];
