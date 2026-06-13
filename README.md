@@ -113,6 +113,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
@@ -297,6 +298,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 ## Depth-First Search
 |  |
@@ -454,6 +456,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
@@ -469,6 +472,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
