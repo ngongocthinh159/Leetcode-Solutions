@@ -114,6 +114,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
@@ -402,6 +403,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
@@ -457,6 +459,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
@@ -721,6 +724,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Tree
 |  |
