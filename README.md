@@ -334,6 +334,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
@@ -520,6 +521,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0115-distinct-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -658,6 +660,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
