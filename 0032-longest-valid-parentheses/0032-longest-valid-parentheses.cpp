@@ -16,14 +16,13 @@ public:
                 i++;
                 continue;
             }
-            int j = i, start = j, end = j;
-            while (j < n) {
-                if (rightPos[j] == -1) break;
-                end = rightPos[j];
-                j = rightPos[j] + 1;
+            int start = i, end = i;
+            while (i < n) {
+                if (rightPos[i] == -1) break;
+                end = rightPos[i];
+                i = rightPos[i] + 1;
             }
             ans = max(ans, end - start + 1);
-            i = j;
         }
         return ans;
     }
