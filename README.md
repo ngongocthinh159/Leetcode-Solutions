@@ -252,6 +252,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2317-count-collisions-on-a-road](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -557,6 +558,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
