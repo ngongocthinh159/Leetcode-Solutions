@@ -374,6 +374,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -532,6 +533,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0301-remove-invalid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
@@ -691,6 +693,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 ## Geometry
@@ -796,6 +799,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Binary Search Tree
