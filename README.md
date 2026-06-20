@@ -48,6 +48,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1895-largest-magic-square](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -216,6 +217,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
+| [1840-maximum-building-height](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-count-square-sum-triples](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
@@ -286,6 +288,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
+| [1840-maximum-building-height](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
