@@ -885,6 +885,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Graph Theory
 |  |
 | ------- |
+| [2076-process-restricted-friend-requests](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
@@ -897,6 +898,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2076-process-restricted-friend-requests](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
