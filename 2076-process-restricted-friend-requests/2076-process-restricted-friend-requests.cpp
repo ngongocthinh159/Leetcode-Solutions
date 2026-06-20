@@ -14,7 +14,7 @@ struct DSU {
         size[x] = 1;
     }
     int find(int x) {
-        return x == parent[x] ? x : find(parent[x]);
+        return x == parent[x] ? x : parent[x] = find(parent[x]);
     }
     bool same_set(int a, int b) {
         return find(a) == find(b);
@@ -24,16 +24,9 @@ struct DSU {
         int rb = find(b);
         if (ra != rb) {
             if (size[ra] < size[rb]) swap(ra,rb), swap(a, b);
-            history.push_back({ra, size[ra], rb, parent[rb]});
             size[ra] += size[rb];
             parent[rb] = ra;
         }
-    }
-    void rollback() {
-        auto a = history.back();
-        history.pop_back();
-        size[a[0]] = a[1];
-        parent[a[2]] = a[3];
     }
 };
 
@@ -44,19 +37,19 @@ public:
         DSU d(n);
         vector<bool> ans(requests.size());
         for (int i = 0; i < int(requests.size()); i++) {
-            int u = requests[i][0];
-            int v = requests[i][1];
-            d.unite(u, v);
+            int pu = d.find(requests[i][0]);
+            int pv = d.find(requests[i][1]);
             bool ok = true;
             for (auto &r : restrictions) {
-                if (d.same_set(r[0], r[1])) {
+                int px = d.find(r[0]);
+                int py = d.find(r[1]);
+                if (make_pair(px,py) == make_pair(pu,pv) || make_pair(px,py) == make_pair(pv,pu)) {
                     ok = false;
-                    d.rollback();
                     break;
                 }
             }
             if (ok) {
-                d.unite(u, v);
+                d.unite(requests[i][0], requests[i][1]);
             }
             ans[i] = ok;
         }
