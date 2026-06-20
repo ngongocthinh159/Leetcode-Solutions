@@ -33,7 +33,6 @@ public:
             if (lo > hi) swap(lo, hi);
 
             int remain = dist - (hi - lo);
-            if (remain&1) remain--;
 
             ans = max(ans, hi + remain / 2);
         }
