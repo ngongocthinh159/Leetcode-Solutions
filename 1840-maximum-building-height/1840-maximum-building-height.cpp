@@ -27,8 +27,15 @@ public:
 
         int ans = 0;
         for (int i = 1; i < int(r.size()); i++) {
-            int d = abs(r[i][0] - r[i - 1][0]);
-            ans = max(ans, (r[i][1] + r[i - 1][1] + d) / 2);
+            int lo = r[i - 1][1];
+            int hi = r[i][1];
+            int dist = r[i][0] - r[i - 1][0];
+            if (lo > hi) swap(lo, hi);
+
+            int remain = dist - (hi - lo);
+            if (remain&1) remain--;
+
+            ans = max(ans, hi + remain / 2);
         }
         ans = max(ans, n - r[m - 1][0] + r[m - 1][1]);
         return ans;
