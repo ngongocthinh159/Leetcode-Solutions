@@ -22,7 +22,7 @@ public:
                 if (time > 0) {
                     ll start = value[i] - (time - 1) * decay[i];
                     ll end = value[i];
-                    curGain += (end + start) % MOD * time % MOD * 500000004ll % MOD;
+                    curGain += (end + start) % MOD * time % MOD * 500000004 % MOD;
                     curGain %= MOD;
                 }
                 if (curOper > oper) {
@@ -50,15 +50,18 @@ public:
             value[i] = value[i] - time * decay[i];
         }
         priority_queue<pair<ll,ll>> q;
-        for (ll i = 0; i < n; i++) q.push({value[i], i});
+        for (ll i = 0; i < n; i++) if (value[i] > 0) q.push({value[i], i});
         while (q.size() && oper) {
             auto p = q.top();
             q.pop();
-            if (p.first <= 0) break;
+            
             oper--;
             ans += p.first;
             ans %= MOD;
-            q.push({p.first - decay[p.second], p.second});
+
+            int nval = p.first - decay[p.second];
+            if (nval > 0)
+                q.push({nval, p.second});
         }
         return ans;
     }
