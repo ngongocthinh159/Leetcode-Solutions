@@ -22,8 +22,9 @@ public:
                 if (time > 0) {
                     ll start = value[i] - (time - 1) * decay[i];
                     ll end = value[i];
-                    curGain += (end + start) % MOD * time % MOD * 500000004 % MOD;
-                    curGain %= MOD;
+
+                    curGain += (end + start) * time % MOD * 500000004 % MOD;
+                    if (curGain >= MOD) curGain -= MOD;
                 }
                 if (curOper > oper) {
                     ok = false;
@@ -39,10 +40,9 @@ public:
             else
                 l = m;
         }
-        // cout << r << '\n';
         ans += totGain;
         oper -= totOper;
-        // cout << ans << ' ' << oper << ' ' << r << '\n';
+        
         for (ll i = 0; i < n; i++) {
             if (value[i] <= r) continue;
             ll diff = value[i] - r;
@@ -54,7 +54,7 @@ public:
         while (q.size() && oper) {
             auto p = q.top();
             q.pop();
-            
+
             oper--;
             ans += p.first;
             ans %= MOD;
