@@ -11,11 +11,11 @@ public:
             for (int j = 0; j <= k; j++) dp[i][j] = INT_MAX;
 
         dp[0][1] = 0;
-        set<array<int,3>> S;
-        S.insert({0, 0, 1});
-        while (S.size()) {
-            auto a = *S.begin();
-            S.erase(S.begin());
+        priority_queue<array<int,3>,vector<array<int,3>>,greater<>> q;
+        q.push({0, 0, 1});
+        while (q.size()) {
+            auto a = q.top();
+            q.pop();
             int w_u = a[0];
             int u = a[1];
             int repeat = a[2];
@@ -27,9 +27,8 @@ public:
                 int nc = labels[v] - 'a';
                 if (nrepeat > k) continue;
                 if (dp[v][nrepeat] > w_u + w_uv) {
-                    S.erase({dp[v][nrepeat], v, nrepeat});
                     dp[v][nrepeat] = w_u + w_uv;
-                    S.insert({dp[v][nrepeat], v, nrepeat});
+                    q.push({dp[v][nrepeat], v, nrepeat});
                 }
             }
         }
