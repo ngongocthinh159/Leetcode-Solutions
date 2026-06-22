@@ -43,25 +43,23 @@ public:
         ans += totGain;
         oper -= totOper;
         
+        int mx = INT_MIN, cnt = 0;
         for (ll i = 0; i < n; i++) {
             if (value[i] <= r) continue;
             ll diff = value[i] - r;
             ll time = (diff + decay[i] - 1)/decay[i];
             value[i] = value[i] - time * decay[i];
         }
-        priority_queue<pair<ll,ll>> q;
-        for (ll i = 0; i < n; i++) if (value[i] > 0) q.push({value[i], i});
-        while (q.size() && oper) {
-            auto p = q.top();
-            q.pop();
-
-            oper--;
-            ans += p.first;
+        for (ll i = 0; i < n; i++) {
+            if (mx == value[i]) cnt++;
+            else if (mx < value[i]) {
+                mx = value[i];
+                cnt = 1;
+            }
+        }
+        if (mx > 0) {
+            ans += 1ll * min(cnt, oper) * mx % MOD;
             ans %= MOD;
-
-            int nval = p.first - decay[p.second];
-            if (nval > 0)
-                q.push({nval, p.second});
         }
         return ans;
     }
