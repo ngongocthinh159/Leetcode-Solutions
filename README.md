@@ -102,6 +102,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3763-separate-squares-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3763-separate-squares-i) |
@@ -416,6 +417,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3714-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -524,6 +526,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3714-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
@@ -661,6 +664,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3161-block-placement-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3775-separate-squares-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3775-separate-squares-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -794,6 +798,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Monotonic Stack
@@ -928,4 +933,5 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
