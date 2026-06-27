@@ -1,10 +1,6 @@
 class Solution {
 public:
     long long countMajoritySubarrays(vector<int>& nums, int target) {
-        // f[target_i] - f[target_j] > (i - j) / 2
-        // 2 * f[i] - 2 * f[j] > (i - j)
-        // 2 * f[i] - i > 2 * f[j] - j 
-        // -> 2 * f[j] - j <= 2 * f[i] - i - 1
         int n = nums.size();
         unordered_map<int,int> f;
         f[0]++;
