@@ -96,6 +96,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -190,6 +191,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -455,6 +457,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3161-block-placement-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3763-separate-squares-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3763-separate-squares-i) |
@@ -499,6 +502,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
@@ -873,6 +877,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
+| [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -908,10 +913,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2076-process-restricted-friend-requests](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
