@@ -45,6 +45,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -294,6 +295,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1833-maximum-ice-cream-bars](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
@@ -511,6 +513,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -910,6 +913,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Graph Theory
 |  |
 | ------- |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2076-process-restricted-friend-requests](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -924,6 +928,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2076-process-restricted-friend-requests](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
