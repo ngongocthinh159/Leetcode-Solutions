@@ -12,40 +12,25 @@ public:
         int n = nums.size();
         long long mxDif = LLONG_MIN;
         long long mnf = LLONG_MAX;
-        vector<long long> pref(n + 1);
-        for (int i = 0; i < n; i++) pref[i + 1] = pref[i] + nums[i];
-        for (int r = 0; r < n; r++) {
-            unordered_map<int,long long> f;
-            long long mx = 0, mnFact = LLONG_MAX;
-            for (int l = r; l >= 0; l--) {
-                int x = nums[l];
-                while (x != 1) {
-                    int fact = spf[x];
-                    while (x % fact == 0) x /= fact;
-
-                    f[fact] += nums[l];
-                    long long sum = f[fact];
-
-                    if (mx < sum) {
-                        mx = sum;
-                        mnFact = fact;
-                    } else if (mx == sum) {
-                        mnFact = min(mnFact, 1ll * fact);
-                    }
-                }
-
-                long long dif = mx * 2 - (pref[r + 1] - pref[l]);
-                if (mxDif < dif) {
-                    mxDif = dif;
-                    mnf = mnFact;
-                } else if (mxDif == dif) {
-                    mnf = min(mnf, mnFact);
-                }
+        int mxNum = *max_element(nums.begin(), nums.end());
+        for (int i = 2; i <= mxNum; i++) if (spf[i] == i) {
+            long long cur = 0;
+            long long mxSum = LLONG_MIN;
+            for (auto &x : nums) {
+                if (!(x % i == 0)) x *= -1;
+                cur = max(1ll * x, cur + x);
+                mxSum = max(cur, mxSum);
+            }
+            for (auto &x : nums) if (x < 0) x *= -1;
+            if (mxDif < mxSum) {
+                mxDif = mxSum;
+                mnf = i;
             }
         }
         const int MOD = (1e9 + 7);
-        if (mnf == LLONG_MAX) mnf = 2;
-        if (mxDif < 0) mxDif += MOD;
+        if (mxDif == LLONG_MIN) {
+            return (-2 + MOD);
+        }
         return mxDif * mnf % MOD;
     }
 };
