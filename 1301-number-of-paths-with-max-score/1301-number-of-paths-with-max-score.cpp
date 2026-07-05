@@ -1,17 +1,9 @@
 class Solution {
 public:
-    // "E23",
-    // "2X2",
-    // "12S"
-
-    // "E12",
-    // "1X1",
-    // "21S"
     vector<int> pathsWithMaxScore(vector<string>& board) {
         int n = board.size(), m = board[0].size();
-        const int IINF = 1e9;
         const int MOD = 1e9 + 7;
-        vector<vector<array<long long,2>>> dp(n, vector<array<long long,2>>(m, {-1,0}));
+        vector<vector<array<int,2>>> dp(n, vector<array<int,2>>(m, {-1,0}));
         dp[n - 1][m - 1] = {0, 1};
         vector<array<int,2>> moves = {{-1,0},{0,-1},{-1,-1}};
         for (int i = n - 1; i >= 0; i--)
@@ -32,6 +24,6 @@ public:
                 }
             }
         if (dp[0][0][0] == -1) return {0, 0};
-        return {int(dp[0][0][0]), int(dp[0][0][1])};
+        return {dp[0][0][0], dp[0][0][1]};
     }
 };
