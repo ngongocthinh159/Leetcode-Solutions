@@ -29,6 +29,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1284-four-divisors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1284-four-divisors) |
+| [1288-remove-covered-intervals](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -293,6 +294,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0761-special-binary-string) |
+| [1288-remove-covered-intervals](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
