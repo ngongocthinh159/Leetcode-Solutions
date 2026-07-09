@@ -16,6 +16,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
+| [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0980-find-the-shortest-superstring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0980-find-the-shortest-superstring) |
@@ -220,6 +221,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
+| [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0956-number-of-music-playlists](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0956-number-of-music-playlists) |
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1284-four-divisors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1284-four-divisors) |
@@ -295,6 +297,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0761-special-binary-string) |
+| [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [1288-remove-covered-intervals](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -401,6 +404,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
+| [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -739,6 +743,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
