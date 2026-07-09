@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        const int LOG = 18;
         vector<int> id(n);
         int cid = 0;
         for (int i = n - 1; i >= 0; i--) {
