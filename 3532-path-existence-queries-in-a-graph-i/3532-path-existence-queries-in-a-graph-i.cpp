@@ -10,10 +10,7 @@ public:
         int m = queries.size();
         vector<bool> ans(m); 
         for (int i = 0; i < m; i++) {
-            int u = queries[i][0];
-            int v = queries[i][1];
-            if (u > v) swap(u, v);
-            ans[i] = id[u] == id[v];
+            ans[i] = id[queries[i][0]] == id[queries[i][1]];
         }
         return ans;
     }
