@@ -2,23 +2,19 @@ class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
         const int LOG = 18;
-        vector<vector<int>> jump(LOG, vector<int>(n));
-        for (int i = n - 1, j = n - 1; i >= 0; i--) {
-            while (j >= 0 && nums[j] - nums[i] > maxDiff) j--;
-            jump[0][i] = j;
+        vector<int> id(n);
+        int cid = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (i != n - 1 && nums[i + 1] - nums[i] > maxDiff) cid++;
+            id[i] = cid;
         }
-        for (int j = 1; j < LOG; j++)
-            for (int i = 0; i < n; i++) jump[j][i] = jump[j - 1][jump[j - 1][i]];
         int m = queries.size();
-        vector<bool> ans(m);
-        int i = 0;
-        for (auto &q : queries) {
-            int u = q[0];
-            int v = q[1];
+        vector<bool> ans(m); 
+        for (int i = 0; i < m; i++) {
+            int u = queries[i][0];
+            int v = queries[i][1];
             if (u > v) swap(u, v);
-            if (jump[LOG - 1][u] < v) ans[i] = false;
-            else ans[i] = true;
-            i++;
+            ans[i] = id[u] == id[v];
         }
         return ans;
     }
