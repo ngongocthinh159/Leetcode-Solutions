@@ -31,8 +31,8 @@ public:
             } else
                 break;
         }
-        for (int i = -1; i < int(token1.size()); i++) {
-            if (i + 1 <= pref && suf >= int(token1.size()) - pref) return true;
+        for (int i = 0; i <= pref; i++) {
+            if (suf >= int(token1.size()) - i) return true;
         }
         return false;
     }
