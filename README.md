@@ -10,6 +10,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
@@ -222,6 +223,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0067-add-binary](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -407,6 +409,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
@@ -761,6 +764,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
@@ -986,4 +990,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
