@@ -71,6 +71,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -246,6 +247,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -434,6 +436,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2479-meeting-rooms-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -675,6 +678,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2037-count-square-sum-triples](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
@@ -768,6 +772,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
