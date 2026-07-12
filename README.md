@@ -37,6 +37,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1340-jump-game-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -235,6 +236,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1038-number-of-squareful-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1284-four-divisors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1284-four-divisors) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -771,6 +773,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1733-maximum-number-of-visible-points](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
