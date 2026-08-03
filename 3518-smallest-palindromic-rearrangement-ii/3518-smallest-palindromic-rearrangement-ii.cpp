@@ -18,11 +18,6 @@ public:
         int tot = 0;
         for (int i = 0; i < 26; i++) cnt[i] /= 2, tot += cnt[i];
 
-        // for (int i = 0; i < 26; i++) if (cnt[i]) {
-        //     cout << char(i  + 'a') << ' ' << cnt[i] << '\n';
-        // }
-        // cout << tot << '\n';
-
         while (tot--) {
             bool found = false;
             for (int i = 0; i < 26; i++) if (cnt[i]) {
