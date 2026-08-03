@@ -1,7 +1,7 @@
 class Solution {
 public:
     int comb(int n, int r, int k) {
-        r = min(r, n - r);
+        r = min(r, n - r); // symmetric trick
         long long res = 1;
         for (int i = 1; i <= r; i++) {
             res = res * (n - i + 1) / i;
@@ -24,23 +24,18 @@ public:
                 cnt[i]--;
 
                 int totCnt = tot;
+                // trick to compare large C(n, r) with a number k
                 long long perm = 1;
-                bool kSmallerEqual = false;
-                if (k <= perm) 
-                    kSmallerEqual = true;
-                else {
-                    for (int j = 0; j < 26; j++) if (cnt[j]) {
-                        int res = comb(totCnt, cnt[j], k);
-                        totCnt -= cnt[j];
-                        perm = perm * res;
-                        if (perm >= k) {
-                            kSmallerEqual = true;
-                            break;
-                        }
+                for (int j = 0; j < 26; j++) if (cnt[j]) {
+                    int res = comb(totCnt, cnt[j], k);
+                    totCnt -= cnt[j];
+                    perm = perm * res;
+                    if (perm >= k) {
+                        break;
                     }
                 }
 
-                if (kSmallerEqual) {
+                if (k <= perm) {
                     found = true;
                     t += i + 'a';
                     break;
