@@ -13,6 +13,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -167,6 +168,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0132-palindrome-partitioning-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0799-champagne-tower) |
@@ -227,6 +229,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0067-add-binary](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0486-predict-the-winner](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -952,10 +955,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [4164-last-remaining-integer-after-alternating-deletion-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4164-last-remaining-integer-after-alternating-deletion-operations) |
 ## Line Sweep
 |  |
