@@ -342,6 +342,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2784-check-if-array-is-good](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -455,6 +456,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2615-sum-of-distances](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
@@ -532,6 +534,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -639,6 +642,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -776,6 +780,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
