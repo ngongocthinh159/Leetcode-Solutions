@@ -102,6 +102,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3488-closest-equal-element-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3527-alternating-groups-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3527-alternating-groups-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -260,6 +261,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2376-count-special-integers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2376-count-special-integers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
@@ -670,6 +672,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
