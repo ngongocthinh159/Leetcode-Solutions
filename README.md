@@ -265,6 +265,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
@@ -310,6 +311,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
@@ -462,6 +464,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3488-closest-equal-element-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -649,6 +652,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -782,6 +786,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
