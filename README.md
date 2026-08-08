@@ -263,6 +263,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -538,6 +539,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -649,6 +651,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -765,6 +768,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
@@ -779,6 +783,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1980-find-unique-binary-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
