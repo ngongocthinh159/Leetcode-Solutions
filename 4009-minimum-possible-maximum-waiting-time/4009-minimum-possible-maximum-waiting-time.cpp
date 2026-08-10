@@ -52,14 +52,15 @@ public:
     int minMaxWaitingTime(vector<int>& demand, vector<int>& fuel) {
         int n = demand.size();
         int mx = max(fuel[0], fuel[1]);
-        if (fuel[0] < demand[0] && fuel[1] < demand[0]) return -1;
+        int mxD = *max_element(demand.begin(), demand.end());
         for (int i = 0; i < n; i++)
             for (int j = 0; j <= mx; j++)
                 for (int k = 0; k <= mx; k++)
-                    for (int wait = 0; wait <= 20; wait++)
+                    for (int wait = 0; wait <= mxD; wait++)
                         for (int state = 0; state < 3; state++)
                             dp[i][j][k][wait][state] = {-2,-2};
         auto res =  dfs(0, fuel[0], fuel[1], 0, 0, demand);
+        if (res.first == -1) return -1;
         return res.second;
     }
 };
