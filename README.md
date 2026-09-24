@@ -152,6 +152,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 | [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
@@ -568,6 +569,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 ## Heap (Priority Queue)
@@ -687,6 +689,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4019-remove-k-balanced-substrings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4019-remove-k-balanced-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 | [4064-minimum-deletions-to-make-alternating-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-minimum-deletions-to-make-alternating-substring) |
 | [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
@@ -717,6 +720,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 ## Bitmask
 |  |
