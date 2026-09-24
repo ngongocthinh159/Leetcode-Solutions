@@ -154,6 +154,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
 | [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
 | [4045-count-robot-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4045-count-robot-groups) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
@@ -433,6 +434,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Hash Table
 |  |
 | ------- |
@@ -576,6 +578,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1033,11 +1036,13 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Shortest Path
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Union-Find
 |  |
 | ------- |
