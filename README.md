@@ -153,6 +153,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
 | [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
+| [4045-count-robot-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4045-count-robot-groups) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
@@ -851,6 +852,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2317-count-collisions-on-a-road](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4019-remove-k-balanced-substrings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4019-remove-k-balanced-substrings) |
+| [4045-count-robot-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Linked List
 |  |
@@ -922,6 +924,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4045-count-robot-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Rolling Hash
 |  |
