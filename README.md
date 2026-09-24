@@ -153,6 +153,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
 | [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
@@ -522,6 +523,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3955-threshold-majority-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3955-threshold-majority-queries) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4110-count-stable-subarrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4110-count-stable-subarrays) |
 ## Greedy
 |  |
@@ -609,6 +611,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -763,6 +766,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3775-separate-squares-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3775-separate-squares-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4064-minimum-deletions-to-make-alternating-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-minimum-deletions-to-make-alternating-substring) |
 | [4145-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4145-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Union Find
@@ -986,6 +990,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [3161-block-placement-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3527-alternating-groups-iii) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Brainteaser
 |  |
 | ------- |
