@@ -152,6 +152,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4042-minimum-operations-to-transform-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4042-minimum-operations-to-transform-array) |
 | [4045-count-robot-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4045-count-robot-groups) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
@@ -229,6 +230,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3981-jump-game-ix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3981-jump-game-ix) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
