@@ -1,32 +1,38 @@
 class Solution {
 public:
+    int n;
+    unordered_map<string,string> keyToValue;
+    vector<int> toRight;
+    string dfs(int l, int r, string &s, int inside) {
+        string res = "";
+        for (int i = l; i <= r; ) {
+            if (s[i] == '(') {
+                res += dfs(i + 1, toRight[i] - 1, s, 1);
+                i = toRight[i] + 1;
+            } else {
+                res += s[i];
+                i++;
+            }
+        }
+        if (inside) {
+            if (keyToValue.count(res)) 
+                res = keyToValue[res];
+            else 
+                res = "?";
+        }
+        return res;
+    }
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        int n = s.size();
-        unordered_map<string,string> keyToValue;
+        n = s.size();
         for (auto &p : knowledge) {
             keyToValue[p[0]] = p[1];
         }
-        vector<char> st;
+        vector<int> st;
+        toRight.resize(n);
         for (int i = 0; i < n; i++) {
-            if (s[i] != ')') st.push_back(s[i]);
-            else {
-                string cur = "";
-                while (st.back() != '(') {
-                    cur += st.back();
-                    st.pop_back();
-                }
-                st.pop_back();
-                reverse(cur.begin(), cur.end());
-                if (keyToValue.count(cur)) {
-                    cur = keyToValue[cur];
-                    for (auto c : cur) st.push_back(c);
-                } else {
-                    st.push_back('?');
-                }
-            }   
+            if (s[i] == '(') st.push_back(i);
+            if (s[i] == ')') toRight[st.back()] = i, st.pop_back();
         }
-        string res = "";
-        for (int i = 0; i < int(st.size()); i++) res += st[i];
-        return res;
+        return dfs(0, n - 1, s, 0);
     }
 };
