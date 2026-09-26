@@ -151,6 +151,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4007-maximum-total-subarray-value-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
+| [4027-elevator-requests-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-elevator-requests-iii) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4037-maximum-valid-split-positions-ii) |
@@ -233,6 +234,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3962-number-of-zigzag-arrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3981-jump-game-ix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3981-jump-game-ix) |
 | [4027-number-of-stable-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-number-of-stable-subsequences) |
+| [4027-elevator-requests-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-elevator-requests-iii) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
@@ -374,6 +376,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
+| [4027-elevator-requests-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-elevator-requests-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -726,6 +729,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4027-elevator-requests-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-elevator-requests-iii) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 ## Bitmask
@@ -738,6 +742,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [4027-elevator-requests-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-elevator-requests-iii) |
 ## Enumeration
 |  |
 | ------- |
