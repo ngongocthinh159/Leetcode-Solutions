@@ -382,6 +382,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
@@ -848,6 +849,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Design
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -869,6 +871,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -912,6 +915,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
@@ -920,6 +924,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -1104,4 +1109,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
