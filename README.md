@@ -661,6 +661,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1096-brace-expansion-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -872,6 +873,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1098,4 +1100,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
