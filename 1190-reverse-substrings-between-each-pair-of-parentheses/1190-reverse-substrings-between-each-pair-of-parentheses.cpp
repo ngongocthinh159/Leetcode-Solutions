@@ -24,8 +24,6 @@ public:
             if (s[i] == '(') st.push_back(i);
             if (s[i] == ')') toRight[st.back()] = i, st.pop_back();
         }
-        // cout << toRight[0] << '\n';
-        // cout << toRight[2] << '\n';
         return dfs(0, n - 1, 0, s);
     }
 };
