@@ -1,20 +1,31 @@
 class Solution {
 public:
-    string reverseParentheses(string s) {
-        int n = s.size();
-        vector<char> st;
-        for (int i = 0; i < n; i++) {
-            if (s[i] == ')') {
-                string t = "";
-                while (st.size() && st.back() != '(') t += st.back(), st.pop_back();
-                st.pop_back();
-                for (int j = 0; j < int(t.size()); j++) st.push_back(t[j]);
+    int n;
+    vector<int> toRight;
+    string dfs(int l, int r, bool rev, string &s) {
+        string res = "";
+        for (int i = l; i <= r; ) {
+            if (s[i] == '(') {
+                res += dfs(i + 1, toRight[i] - 1, 1, s);
+                i = toRight[i] + 1;
             } else {
-                st.push_back(s[i]);
+                res += s[i];
+                i++;
             }
         }
-        string res = "";
-        for (int i = 0; i < int(st.size()); i++) res += st[i];
+        if (rev) reverse(res.begin(), res.end());
         return res;
+    }
+    string reverseParentheses(string s) {
+        n = s.size();
+        toRight.resize(n);
+        vector<int> st;
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '(') st.push_back(i);
+            if (s[i] == ')') toRight[st.back()] = i, st.pop_back();
+        }
+        // cout << toRight[0] << '\n';
+        // cout << toRight[2] << '\n';
+        return dfs(0, n - 1, 0, s);
     }
 };
