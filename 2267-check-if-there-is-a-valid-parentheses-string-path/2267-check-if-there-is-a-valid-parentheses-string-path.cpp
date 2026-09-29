@@ -2,10 +2,9 @@ class Solution {
 public:
     bool hasValidPath(vector<vector<char>>& grid) {
         int n = grid.size(), m = grid[0].size();
-        vector<bitset<100>> dp(m, 1);
-        dp[0] = grid[0][0] == '(' ? (1 << 1) : 0;
-        for (int j = 1; j < m; j++) dp[j] = grid[0][j] == '(' ? (dp[j - 1] << 1) : (dp[j - 1] >> 1);
-        for (int i = 1; i < n; i++) {
+        vector<bitset<100>> dp(m, 0);
+        dp[0] = 1;
+        for (int i = 0; i < n; i++) {
             vector<bitset<100>> ndp(m);
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == '(') {
