@@ -166,6 +166,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 | [4072-total-sum-of-interaction-cost-in-tree-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4072-total-sum-of-interaction-cost-in-tree-groups) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [4110-count-stable-subarrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4110-count-stable-subarrays) |
@@ -240,6 +241,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4134-number-of-effective-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4134-number-of-effective-subsequences) |
 ## Math
@@ -379,6 +381,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-elevator-requests-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-elevator-requests-iii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -546,6 +549,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 | [4110-count-stable-subarrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4110-count-stable-subarrays) |
 ## Greedy
 |  |
