@@ -8,6 +8,8 @@ public:
         pIdx[0] = -1;
         sIdx[0] = n;
         int sum = 0;
+        vector<int> pValue;
+        pValue.push_back(0);
         for (int i = 0; i < n; i++) {
             nums[i] %= k;
             if (nums[i] < 0) nums[i] += k;
@@ -15,7 +17,10 @@ public:
 
             sum += nums[i];
             sum %= k;
-            if (pIdx[sum] == -2) pIdx[sum] = i;
+            if (pIdx[sum] == -2) {
+                pIdx[sum] = i;
+                pValue.push_back(sum);
+            }
         }
         sum = 0;
         for (int i = n - 1; i >= 0; i--) {
@@ -27,17 +32,16 @@ public:
         for (int i = 0; i < k; i++) if (list[i].size()) {
             int delta = -2 * i % k;
             if (delta < 0) delta += k;
+            
+            int j = 0;
+            for (auto p : pValue) {
+                while (j < list[i].size() && list[i][j] <= pIdx[p]) j++;
+                if (j == list[i].size()) break;
 
-            for (int p = 0; p < k; p++) if (pIdx[p] != -2) {
                 int s = (sum - p + delta) % k;
                 if (s < 0) s += k;
-                if (sIdx[s] != -2) {
-                    int start = pIdx[p] + 1, end = sIdx[s] - 1;
-                    auto it = lower_bound(list[i].begin(), list[i].end(), start);
-                    if (it != list[i].end() && *it <= end) {
-                        ans = max(ans, end - start + 1);
-                    }
-                }
+                int start = pIdx[p] + 1, end = sIdx[s] - 1;
+                if (list[i][j] <= end) ans = max(ans, end - start + 1);
             }
         }
         unordered_map<int,int> idx;
