@@ -166,6 +166,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 | [4072-total-sum-of-interaction-cost-in-tree-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4072-total-sum-of-interaction-cost-in-tree-groups) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -520,6 +521,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 | [4061-minimum-swaps-to-avoid-forbidden-values](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4061-minimum-swaps-to-avoid-forbidden-values) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [4183-count-caesar-cipher-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4183-count-caesar-cipher-pairs) |
 ## Binary Search
@@ -549,6 +551,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [4035-maximum-partition-factor](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4035-maximum-partition-factor) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 | [4110-count-stable-subarrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4110-count-stable-subarrays) |
 ## Greedy
@@ -642,6 +645,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [4051-count-subarrays-with-distant-sums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4056-longest-balanced-substring-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 | [4063-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4063-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [4110-count-stable-subarrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4110-count-stable-subarrays) |
 ## String
