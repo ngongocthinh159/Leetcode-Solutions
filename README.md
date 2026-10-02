@@ -177,6 +177,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -651,6 +652,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -834,6 +836,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
@@ -1123,6 +1126,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
