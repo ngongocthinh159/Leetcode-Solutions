@@ -187,6 +187,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
+| [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [0956-number-of-music-playlists](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0956-number-of-music-playlists) |
@@ -558,6 +559,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -662,6 +664,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
@@ -888,6 +891,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0032-longest-valid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1128,6 +1132,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0022-generate-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
