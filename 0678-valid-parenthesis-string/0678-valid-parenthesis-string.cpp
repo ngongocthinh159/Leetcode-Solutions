@@ -13,7 +13,7 @@ public:
                     st.pop_back();
                 } else {
                     if (q.empty()) return false;
-                    q.pop_front();
+                    q.pop_back();
                 }
             }
         }
