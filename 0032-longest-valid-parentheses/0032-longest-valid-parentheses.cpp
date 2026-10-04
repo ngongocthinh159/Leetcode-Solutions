@@ -2,30 +2,29 @@ class Solution {
 public:
     int longestValidParentheses(string s) {
         int n = s.size();
-        vector<int> st;
-        vector<int> toRight(n, -1);
+        int open = 0, pop = 0, close = 0, ans = 0;
         for (int i = 0; i < n; i++) {
-            if (s[i] == '(') st.push_back(i);
+            if (s[i] == '(') open++;
             else {
-                if (st.size()) {
-                    toRight[st.back()] = i;
-                    st.pop_back();
-                } else
-                    st.clear();
+                open--;
+                pop++;
+                if (open < 0) open = 0, pop = 0;
+                else if (open == 0) {
+                    ans = max(ans, 2 * pop);
+                }
             }
         }
-        int ans = 0;
-        for (int i = 0; i < n; ) {
-            if (toRight[i] == -1) {
-                i++;
-                continue;
+        pop = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (s[i] == ')') close++;
+            else {
+                close--;
+                pop++;
+                if (close < 0) close = 0, pop = 0;
+                else if (close == 0) {
+                    ans = max(ans, 2 * pop);
+                }
             }
-            int len = 0;
-            while (i < n && toRight[i] != -1) {
-                len += toRight[i] - i + 1;
-                i = toRight[i] + 1;
-            }
-            ans = max(ans, len);
         }
         return ans;
     }
