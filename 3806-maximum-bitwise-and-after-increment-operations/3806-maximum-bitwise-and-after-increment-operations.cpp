@@ -10,10 +10,10 @@ public:
             long long tot = 0;
             for (int i = 0; i < n; i++) {
                 cost[i] = 0;
-                for (int j = 30; j >= 0; j--) if (((cmask >> j) & 1) && !((nums[i] >> j) & 1)) {
-                    long long tmp = ((1LL << (j + 1)) - 1);
+                if ((cmask & (~nums[i])))  {
+                    int msb = 32 - __builtin_clz(cmask & (~nums[i])) - 1;
+                    long long tmp = ((1LL << (msb + 1)) - 1);
                     cost[i] = (tmp & cmask) - (tmp & nums[i]);
-                    break;
                 }
             }
             nth_element(cost.begin(), cost.begin() + (m - 1), cost.end());
