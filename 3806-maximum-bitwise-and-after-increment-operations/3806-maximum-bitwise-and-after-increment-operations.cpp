@@ -16,7 +16,7 @@ public:
                     break;
                 }
             }
-            sort(cost.begin(), cost.end());
+            nth_element(cost.begin(), cost.begin() + (m - 1), cost.end());
             for (int i = 0; i < m; i++) tot += cost[i];
             if (tot <= k) {
                 mask = cmask;
