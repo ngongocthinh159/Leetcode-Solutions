@@ -15,7 +15,7 @@ public:
                     cur = 1;
                     st.pop_back();
                 }
-                while (st.size() && st.back() != -1) {
+                if (st.size() && st.back() != -1) {
                     cur += st.back();
                     st.pop_back();
                 }
