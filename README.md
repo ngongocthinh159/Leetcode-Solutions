@@ -561,6 +561,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -665,6 +666,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0132-palindrome-partitioning-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -898,6 +900,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0032-longest-valid-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0402-remove-k-digits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -985,6 +988,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
