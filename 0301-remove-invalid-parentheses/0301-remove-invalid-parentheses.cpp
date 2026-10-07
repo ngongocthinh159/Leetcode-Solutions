@@ -1,55 +1,55 @@
 class Solution {
 public:
-    void dfs(int i, string &s, int remove, int open, set<string> &S, string &cur) {
-        if (i == s.size()) {
-            if (open == 0 && remove == 0) S.insert(cur);
-            return;
-        }
-        
-        if (s[i] != '(' && s[i] != ')') {
-            cur += s[i];
-            dfs(i + 1, s, remove, open, S, cur);
-            cur.pop_back();
-            return;
-        }
-
-        // remove
-        if (remove) dfs(i + 1, s, remove - 1, open, S, cur);
-
-        // not remove
-        if (s[i] == ')') {
-            if (open > 0) {
-                cur += s[i];
-                dfs(i + 1, s, remove, open - 1, S, cur);
-                cur.pop_back();
-            }
-        } else {
-            cur += s[i];
-            dfs(i + 1, s, remove, open + 1, S, cur);
-            cur.pop_back();
-        }
-    }
     vector<string> removeInvalidParentheses(string s) {
         int n = s.size();
-        int open = 0, match = 0, az = 0;
+        int open = 0;
+        int remove = 0;
         for (int i = 0; i < n; i++) {
-            if (s[i] != '(' && s[i] != ')') {
-                az++;
-                continue;
-            }
             if (s[i] == '(') open++;
-            else {
-                if (open > 0) {
+            else if (s[i] == ')') {
+                if (open == 0) {
+                    remove++;
+                } else {
                     open--;
-                    match++;
                 }
             }
         }
-        int remove = n - 2*match - az; 
-        cout << remove << '\n';
+        remove += open;
+        vector<string> res;
+        string path = "";
         set<string> S;
-        string cur = "";
-        dfs(0, s, remove, 0, S, cur);
-        return vector<string>(S.begin(), S.end());
+        dfs(0, 0, remove, s, res, path, S);
+        return res;
+    }
+    void dfs(int i, int open, int remove, string &s, vector<string> &res, string &path, set<string> &S) {
+        if (i == int(s.size())) {
+            if (open != 0) return;
+            if (!S.count(path)) {
+                S.insert(path);
+                res.push_back(path);
+            }
+            return;
+        }
+
+        if ('a' <= s[i] && s[i] <= 'z') {
+            path += s[i];
+            dfs(i + 1, open, remove, s, res, path, S);
+            path.pop_back();
+            return;
+        }
+
+        if (remove) {
+            dfs(i + 1, open, remove - 1, s, res, path, S);
+        }
+
+        if (s[i] == '(') {
+            path += s[i];
+            dfs(i + 1, open + 1, remove, s, res, path, S);
+            path.pop_back();
+        } else if (s[i] == ')' && open > 0) {
+            path += s[i];
+            dfs(i + 1, open - 1, remove, s, res, path, S);
+            path.pop_back();
+        }
     }
 };
