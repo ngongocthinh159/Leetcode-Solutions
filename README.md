@@ -12,6 +12,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0391-perfect-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0456-132-pattern](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
@@ -533,6 +534,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0456-132-pattern](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -901,6 +903,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -941,6 +944,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [3161-block-placement-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3527-alternating-groups-iii) |
@@ -989,6 +993,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
