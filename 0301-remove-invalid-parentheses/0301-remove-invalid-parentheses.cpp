@@ -22,6 +22,7 @@ public:
         return res;
     }
     void dfs(int i, int open, int remove, string &s, vector<string> &res, string &path, set<string> &S) {
+        if (remove > int(s.size()) - i) return;
         if (i == int(s.size())) {
             if (open != 0) return;
             if (!S.count(path)) {
