@@ -78,6 +78,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2249-count-lattice-points-inside-a-circle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2291-maximum-and-sum-of-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2291-maximum-and-sum-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -636,6 +637,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1177-can-make-palindrome-from-substring](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2615-sum-of-distances](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -920,6 +922,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2317-count-collisions-on-a-road](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4019-remove-k-balanced-substrings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4019-remove-k-balanced-substrings) |
@@ -1000,6 +1003,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0907-sum-of-subarray-minimums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4045-count-robot-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
