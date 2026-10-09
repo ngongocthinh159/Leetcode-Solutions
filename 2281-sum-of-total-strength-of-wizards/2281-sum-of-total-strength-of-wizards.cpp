@@ -12,14 +12,11 @@ public:
         for (int i = 0; i < n; i++) {
             pref[i + 1] = (pref[i] + strength[i]) % MOD;
             pp[i + 1] = (pp[i] + pref[i + 1]) % MOD;
-            ll sum_min_i = strength[i];
-            while (st.size() && strength[st.back()[0]] >= strength[i]) {
-                st.pop_back();
-            }
-            
+            while (st.size() && strength[st.back()[0]] >= strength[i]) st.pop_back();
+
             ll i_top = st.empty() ? -1 : st.back()[0];
             ll sum_min_top = st.empty() ? 0 : st.back()[1];
-            sum_min_i = (sum_min_top + 1ll * (i - i_top) * strength[i] % MOD) % MOD;
+            ll sum_min_i = (sum_min_top + 1ll * (i - i_top) * strength[i] % MOD) % MOD;
 
             int j = st.empty() ? -1 : st.back()[0];
             ll sum_min_j = st.empty() ? 0 : st.back()[1];
