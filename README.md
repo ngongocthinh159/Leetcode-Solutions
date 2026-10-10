@@ -70,6 +70,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -542,6 +543,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2118-maximum-earnings-from-taxi](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2118-maximum-earnings-from-taxi) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
