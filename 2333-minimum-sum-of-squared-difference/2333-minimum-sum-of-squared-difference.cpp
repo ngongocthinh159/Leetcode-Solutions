@@ -11,9 +11,7 @@ public:
         while (r - l > 1) {
             int m = l + (r - l)/2;
             long long tot = 0;
-            for (int i = 0; i < n; i++) {
-                tot += max(0, v[i] - m);
-            }
+            for (int i = 0; i < n; i++) tot += max(0, v[i] - m);
             if (tot <= k1 + k2) {
                 r = m;
                 used = tot;
@@ -21,13 +19,11 @@ public:
             else
                 l = m;
         }
+        if (r == 0) return 0;
+        int avail = k1 + k2 - used;
         for (int i = 0; i < n; i++) {
             v[i] = min(v[i], r);
-        }
-        int avail = k1 + k2 - used;
-        sort(v.begin(), v.end());
-        for (int i = n - 1; i >= 0; i--) {
-            if (v[i] > 0 && avail) {
+            if (v[i] >= r && avail) {
                 v[i] -= 1;
                 avail--;
             }
