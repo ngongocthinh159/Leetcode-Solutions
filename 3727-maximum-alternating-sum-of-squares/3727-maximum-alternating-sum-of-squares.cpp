@@ -5,9 +5,10 @@ public:
         long long ans = 0;
         vector<int> v(n);
         for (int i = 0; i < n; ++i) v[i] = abs(nums[i]);
-        sort(v.begin(), v.end(), greater<int>());
-        for (int i = 0; i < (n + 1)/2; ++i) ans += 1ll * v[i] * v[i];
-        for (int i = (n + 1)/2; i < n; ++i) ans -= 1ll * v[i] * v[i];
+        int mid = n - (n + 1)/2;
+        nth_element(v.begin(), v.begin() + mid - 1, v.end());
+        for (int i = 0; i < mid; ++i) ans -= 1ll * v[i] * v[i];
+        for (int i = mid; i < n; ++i) ans += 1ll * v[i] * v[i];
         return ans;
     }
 };
