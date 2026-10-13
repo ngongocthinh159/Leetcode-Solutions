@@ -127,6 +127,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -388,6 +389,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3634-minimum-removals-to-balance-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -603,6 +605,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
