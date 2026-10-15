@@ -19,6 +19,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0960-minimize-malware-spread](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0960-minimize-malware-spread) |
@@ -478,6 +479,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0931-maximum-frequency-stack](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0939-minimum-area-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
@@ -986,6 +988,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0110-balanced-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -1003,6 +1006,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0190-reverse-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0761-special-binary-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1057,6 +1061,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
