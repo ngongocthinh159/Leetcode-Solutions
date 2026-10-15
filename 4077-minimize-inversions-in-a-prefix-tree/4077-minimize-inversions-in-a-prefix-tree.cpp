@@ -30,7 +30,7 @@ public:
         return res;
     }
     pair<vector<int>, int> dfs(Node *root) {
-        if (!root) make_pair(vector<int>(), 0);
+        if (!root) return make_pair(vector<int>(), 0);
 
         int cnt = 0;
         vector<int> curList;
