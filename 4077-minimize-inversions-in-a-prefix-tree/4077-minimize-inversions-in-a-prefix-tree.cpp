@@ -38,7 +38,7 @@ public:
         for (int i = 0; i < B; ++i) if (root->child[i]) {
             auto [cList, cCnt] = dfs(root->child[i]);
             curList.insert(curList.end(), cList.begin(), cList.end());
-            cLists.emplace_back(move(cList));
+            cLists.push_back(move(cList));
             cnt += cCnt;
         }
         int sz = cLists.size();
