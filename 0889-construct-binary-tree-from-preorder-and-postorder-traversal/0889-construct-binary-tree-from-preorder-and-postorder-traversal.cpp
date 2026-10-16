@@ -18,10 +18,16 @@ public:
     }
     TreeNode* dfs(vector<int>& preorder, vector<int>& postorder) {
         TreeNode* root = new TreeNode(preorder[pre++]);
-        if (root->val != postorder[post])
-            root->left = dfs(preorder, postorder);
-        if (root->val != postorder[post])
-            root->right = dfs(preorder, postorder);
+        if (root->val == postorder[post]) {
+            post++;
+            return root;
+        }
+        root->left = dfs(preorder, postorder);
+        if (root->val == postorder[post]) {
+            post++;
+            return root;
+        }
+        root->right = dfs(preorder, postorder);
         post++;
         return root;
     }
