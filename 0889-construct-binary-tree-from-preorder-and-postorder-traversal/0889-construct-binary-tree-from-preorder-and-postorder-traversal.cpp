@@ -11,31 +11,29 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, unordered_map<int,int> &f, unordered_map<int,int> &g, vector<int> &preorder, vector<int>& postorder, int l1, int r1, int l2, int r2) {
-        if (l1 == r1) return;
-        
-        if (preorder[l1 + 1] == postorder[r2 - 1]) {
-            root->left = new TreeNode();
-            root->left->val = preorder[l1 + 1];
-            dfs(root->left, f, g, preorder, postorder, l1 + 1, r1, l2, r2 - 1);
-        } else {
-            root->left = new TreeNode();
-            root->left->val = preorder[l1 + 1];
-            dfs(root->left, f, g, preorder, postorder, l1 + 1, f[postorder[r2 - 1]] - 1, l2, g[preorder[l1 + 1]]);
-
-            root->right = new TreeNode();
-            root->right->val = postorder[r2 - 1];
-            dfs(root->right, f, g, preorder, postorder, f[postorder[r2 - 1]], r1, g[preorder[l1 + 1]] + 1, r2 - 1);
-        }
+    unordered_map<int,int> preIdx;
+    unordered_map<int,int> postIdx;
+    vector<int> preorder;
+    vector<int> postorder;
+    TreeNode* constructFromPrePost(vector<int>& pre, vector<int>& post) {
+        int n = pre.size();
+        for (int i = 0; i < int(pre.size()); i++) preIdx[pre[i]] = i;
+        for (int i = 0; i < int(post.size()); i++) postIdx[post[i]] = i;
+        preorder = pre;
+        postorder = post;
+        return dfs(0, n - 1, 0, n - 1);
     }
-    TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
-        TreeNode* root = new TreeNode;
-        root->val = preorder[0];
-        int n = preorder.size();
-        unordered_map<int,int> f, g;
-        for (int i = 0; i < n; i++) f[preorder[i]] = i;
-        for (int i = 0; i < n; i++) g[postorder[i]] = i;
-        dfs(root, f, g, preorder, postorder, 0, n - 1, 0, n - 1);
+    TreeNode* dfs(int l1, int r1, int l2, int r2) {
+        TreeNode* root = new TreeNode(preorder[l1]);
+        if (l1 == r1) return root;
+        if (preorder[l1 + 1] == postorder[r2 - 1]) {
+            root->left = dfs(l1 + 1, r1, l2, r2 - 1);
+        } else {
+            int rIdx = preIdx[postorder[r2 - 1]];
+            root->left = dfs(l1 + 1, rIdx - 1, l2, postIdx[preorder[l1 + 1]]);
+            root->right = dfs(rIdx, r1, postIdx[preorder[l1 + 1]] + 1, r2 - 1);
+        }
+
         return root;
     }
 };
