@@ -2,25 +2,17 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         int n = nums.size();
-        quickSort(nums, 0, n - 1);
-    }
-    void quickSort(vector<int> &nums, int left, int right) {
-        if (left >= right) return;
-        int p = partition(nums, left, right);
-        quickSort(nums, left, p - 1);
-        quickSort(nums, p + 1, right);
-    }
-    int partition(vector<int> &nums, int left, int right) {
-        int idx = left + random() % (right - left + 1);
-        swap(nums[idx], nums[right]);
-        int pivot = nums[right];
-        int p = left;
-        for (int i = left; i < right; i++) {
-            if (nums[i] < pivot) {
+        int p = 0, k = n - 1;
+        for (int i = 0; i <= k;) {
+            if (nums[i] == 1 || i < p) {
+                i++;
+                continue;
+            }
+            if (nums[i] == 0) {
                 swap(nums[p++], nums[i]);
+            } else if (nums[i] == 2) {
+                swap(nums[k--], nums[i]);
             }
         }
-        swap(nums[p], nums[right]);
-        return p;
     }
 };
