@@ -7,6 +7,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -356,6 +357,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0761-special-binary-string) |
@@ -638,6 +640,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1813-sentence-similarity-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
@@ -1196,4 +1199,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
