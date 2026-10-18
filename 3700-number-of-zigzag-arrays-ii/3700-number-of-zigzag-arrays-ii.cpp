@@ -77,6 +77,15 @@ struct Matrix {
 class Solution {
 public:
     int zigZagArrays(int n, int l, int r) {
+        // f(n + 1, nval, UP) = total f(n, val, DOWN) with all val < nval
+        // f(n + 1, nval, DOWN) = total f(n, val, UP) with all val > nval
+        // Matrix: (0..r-1, UP) (0..r-1, DOWN)
+        // 0, UP
+        // .., UP
+        // r-1, UP
+        // 0, DOWN
+        // .., DOWN
+        // r-1, DOWN
         r -= l; r++;
         int len = 2*r;
         Matrix M(len, len);
