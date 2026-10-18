@@ -47,6 +47,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -216,6 +217,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1587-parallel-courses-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1587-parallel-courses-ii) |
@@ -278,6 +280,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1284-four-divisors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1284-four-divisors) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -346,6 +349,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [0489-kth-smallest-instructions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0956-number-of-music-playlists) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
@@ -1002,6 +1006,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
@@ -1017,6 +1022,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0761-special-binary-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1060,10 +1066,12 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -1075,6 +1083,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1008-binary-tree-cameras](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Probability and Statistics
 |  |
@@ -1158,6 +1167,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2076-process-restricted-friend-requests](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
@@ -1210,4 +1220,8 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
