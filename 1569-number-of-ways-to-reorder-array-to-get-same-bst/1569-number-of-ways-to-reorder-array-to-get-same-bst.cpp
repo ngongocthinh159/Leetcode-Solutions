@@ -46,14 +46,9 @@ public:
     }
     pair<int,int> dfs(Node* root) {
         if (!root) return {1, 0};
-
         auto [resL, cntL] = dfs(root->left);
         auto [resR, cntR] = dfs(root->right);
-
-        int res = 1ll * resL * resR % MOD * nCk(cntL + cntR, cntL) % MOD;
-        int cnt = cntL + cntR + 1;
-
-        return {res, cnt};
+        return {1ll * resL * resR % MOD * nCk(cntL + cntR, cntL) % MOD, cntL + cntR + 1};
     }
     int numOfWays(vector<int>& nums) {
         int n = nums.size();
