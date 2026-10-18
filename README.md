@@ -244,6 +244,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3743-maximize-cyclic-partition-score) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -309,6 +310,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3721-count-mentions-per-user](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
