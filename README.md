@@ -150,6 +150,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
@@ -317,6 +318,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
@@ -405,6 +407,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3819-count-covered-buildings](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3819-count-covered-buildings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4010-maximize-alternating-sum-using-swaps](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4010-maximize-alternating-sum-using-swaps) |
 | [4027-elevator-requests-iii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4027-elevator-requests-iii) |
@@ -828,6 +831,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
+| [3886-sum-of-sortable-integers](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/4037-maximum-valid-split-positions-ii) |
