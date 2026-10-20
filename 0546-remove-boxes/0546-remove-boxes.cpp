@@ -8,6 +8,7 @@ public:
                 vector<int>(n, -1)));
         return dfs(0, n - 1, 0, boxes);
     }
+    // dp[l][r][k]: max points in subarray [l, r] given k elements equal and merge to nums[l] (left of nums[l])
     int dfs(int l, int r, int k, vector<int>& b) {
         if (l > r) return 0;
         if (dp[l][r][k] != -1) return dp[l][r][k];
