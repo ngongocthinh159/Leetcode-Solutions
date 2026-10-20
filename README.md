@@ -573,6 +573,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2333-minimum-sum-of-squared-difference](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3161-block-placement-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -661,6 +662,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -747,6 +749,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1056,12 +1059,14 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -1069,6 +1074,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0535-encode-and-decode-tinyurl](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1232,4 +1238,16 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Z Algorithm
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
