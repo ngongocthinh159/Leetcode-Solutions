@@ -714,6 +714,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [0726-number-of-atoms](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0757-pyramid-transition-matrix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0873-guess-the-word](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1059,6 +1060,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
