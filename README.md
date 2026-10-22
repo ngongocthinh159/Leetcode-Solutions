@@ -156,6 +156,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3928-split-and-merge-array-transformation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3928-split-and-merge-array-transformation) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
