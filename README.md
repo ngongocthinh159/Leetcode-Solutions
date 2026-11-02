@@ -6,6 +6,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -606,6 +607,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -666,6 +668,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0466-count-the-repetitions](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
