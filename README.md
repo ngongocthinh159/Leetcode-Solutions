@@ -115,6 +115,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3161-block-placement-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3488-closest-equal-element-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -446,6 +447,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2685-count-the-number-of-complete-components](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -537,6 +539,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3488-closest-equal-element-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -773,6 +776,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3093-longest-common-suffix-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -1039,6 +1043,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3957-sum-of-perfect-square-ancestors) |
