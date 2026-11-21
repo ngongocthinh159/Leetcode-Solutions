@@ -10,7 +10,6 @@ public:
     void dfs(int u, int puIdx, string& s) {
         if (charToList[s[u] - 'a'].size()) {
             if (charToList[s[u] - 'a'].back() != edges[puIdx][0]) {
-                // cout << puIdx << ' ' << edges[puIdx][0] << ' ' << edges[puIdx][1] << '\n';
                 remove[puIdx] = true;
                 newEdges.push_back({charToList[s[u] - 'a'].back(), u});
             }
@@ -36,17 +35,14 @@ public:
         remove.assign(n - 1, false);
         for (int i = 1; i < n; ++i) {
             edges.push_back({parent[i], i});
-            // cout << parent[i] << ' ' << i << ' ' << "add edge" << '\n';
             g[parent[i]].push_back(int(edges.size()) - 1);
         }
         dfs(0, -1, s);
         for (int i = 0; i < int(edges.size()); ++i) if (!remove[i]) {
             g2[edges[i][0]].push_back(edges[i][1]);
-            // cout << edges[i][0] << ' ' << edges[i][1] << ' ' << '1' << '\n';
         }
         for (int i = 0; i < int(newEdges.size()); ++i) {
             g2[newEdges[i][0]].push_back(newEdges[i][1]);
-            // cout << newEdges[i][0] << ' ' << newEdges[i][1] << ' ' << '2' << '\n';
         }
         dfs2(0);
         return childcnt;
