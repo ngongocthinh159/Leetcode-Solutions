@@ -117,6 +117,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3488-closest-equal-element-queries](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -314,6 +315,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -852,6 +854,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -872,6 +875,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -911,6 +915,7 @@ My collection of LeetCode solutions, I hope you will find something useful!
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/ngongocthinh159/Leetcode-Solutions/tree/master/3953-maximum-score-with-co-prime-element) |
